@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {brazil}
+\beamer@sectionintoc {1}{Linha de produto de software}{4}{0}{1}
+\beamer@sectionintoc {2}{Abordagem SyMPLES v1.0}{25}{0}{2}
+\beamer@subsectionintoc {2}{1}{Exemplo}{32}{0}{2}
+\beamer@sectionintoc {3}{Treinamento - SyMPLES v1.0}{49}{0}{3}
+\beamer@sectionintoc {4}{Experimento - SyMPLES v1.0}{53}{0}{4}

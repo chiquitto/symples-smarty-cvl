@@ -1,0 +1,45 @@
+Diário Experimental
+
+Este texto fornece algumas indicações para a melhor execução de replicação experimental ou uso dos materiais apresentados neste pacote experimental, visando mitigar alguns problemas obtidos por meio do projeto piloto executado, bem como das sessões experimentais expressas no trabalho ao qual está relacionado. Mais dúvidas, entrar em contato via email chiquitto@gmail.com.
+
+----------------------------------Reconhecimento do Material----------------------------------
+
+Recomenda-se fortemente a análise de todo o material para a familizarização com o mesmo, antes de sua utilização.
+
+----------------------------------Balanceamento dos Participantes-----------------------------
+
+O questionário de caracterização servirá como instrumento para o balanceamento do grupo, mediante o nível de formação de cada sujeito.
+
+----------------------------------Treinamento-------------------------------------------------
+
+As sessões de treinamento devem ser realizadas de modo similar, para que nenhum viés ocasionado por explicações diferentes venham a influenciar nos experimentos.
+
+A realização em ambientes separados da sessão de treinamento é fortemente indicado. Caso haja apenas uma sala disponível, revezar a presença de cada grupo durante o treinamento, retirando os participantes do grupo oposto, para posterior união dos grupos e aplicação da resolução dos formulários.
+
+É possível a inclusão de exercícios de aplicação das abordagens, caso haja tempo hábil para a realização destas. A execução de um projeto piloto pela equipe de replicação pode auxiliar a reduzir possíveis problemas e dúvidas que possam ocorrer na execução oficial.
+
+----------------------------------Execução----------------------------------------------------
+
+A inspeção da sala, bem como manter uma pessoa para impedir a troca de conhecimento entre os participantes é necessária.
+
+Os materiais deverão ser dividos em número igual para cada abordagem, e deverá ser feita em ordem aleatória. Na existência de duas ou mais LPSs estas deverão ser ordenadas e entregues também em igual número.
+
+
+----------------------------------Análise dos Resultados--------------------------------------
+
+Para a análise dos resultados, as seguintes ferramentas e testes podem ser utilizados:
+
+Ferramenta Open-Source que irá auxiliar nos testes estísticos:
+The R Project for Statistical Computing: http://www.r-project.org/
+IDE R Studio: http://www.rstudio.com/products/rstudio/
+
+Para organizar e calcular a efetividade utilizar a planilha "./analise/Respostas.ods".
+
+Para a identificação da abordagem com maior efetividade, utilizar:
+- Para amostra normal - T-Teste
+- Para amostra não-normal - Mann-Whitney-Wilcoxon
+
+Para o teste de correlação, o teste de correlação a ser aplicado corresponde ao Spearman ou Pearson.
+
+Os formulários resolvidos pelos participantes devem ser corrigidos, anotando a quantidade de acertos e o nível de compreensão indicado por cada participante. As respostas são então mensurados e aplicados a planilha.
+

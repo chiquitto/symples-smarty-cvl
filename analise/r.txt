@@ -1,0 +1,72 @@
+Carregar os dados
+dados <- read.csv("~/Dropbox/pcc/git/pesquisa/experimento1/analise/dados.csv", sep=";")
+
+================
+
+Shapiro Wilk dos acertos no SyMPLES v1.0
+$ shapiro.test(dados$acertos1)
+
+================
+
+Shapiro Wilk dos acertos no SyMPLES v2.0
+$ shapiro.test(dados$acertos2)
+
+================
+
+T-Test de acertos SyMPLES v1.0 e v2.0
+t.test(dados$acertos1, dados$acertos2)
+
+================
+
+Shapiro Wilk da compreensibilidade no SyMPLES v1.0
+$ shapiro.test(dados$compreensibilidade1)
+
+================
+
+Shapiro Wilk da compreensibilidade no SyMPLES v2.0
+$ shapiro.test(dados$compreensibilidade2)
+
+================
+
+Correlação de Pearson SyMPLES v1.0
+$ cor.test(dados$acertos1, dados$compreensibilidade1, "t", "pearson")
+
+================
+
+Correlação de Pearson SyMPLES v2.0
+$ cor.test(dados$acertos2, dados$compreensibilidade2, "t", "pearson")
+
+================
+
+Correlação de Spearman SyMPLES v1.0
+$ cor.test(dados$acertos1, dados$compreensibilidade1, "two.sided", "spearman")
+
+================
+
+Correlação de Spearman SyMPLES v2.0
+$ cor.test(dados$acertos2, dados$compreensibilidade2, "two.sided", "spearman")
+
+================
+
+Histograma
+
+dados <- read.csv("~/Dropbox/pcc/git/pesquisa/experimento1/analise/dados.csv", sep=";");
+x <- dados$acertos1;
+h <- hist(
+  x,
+  freq=FALSE,
+  xlab="Acertos",
+  ylab="Frequência",
+  main="Distribution of Body Mass Index",
+  col="lightgreen",
+  xlim=c(0,10),
+  ylim=c(0, .4)
+);
+
+#d <- dnorm(h, mean=mean(x), sd=sd(x));
+#curve(d, add=TRUE, col="darkblue", lwd=2);
+
+xfit<-seq(min(x),max(x),length=40);
+yfit<-dnorm(xfit,mean=mean(x),sd=sd(x));
+yfit <- yfit*diff(h$mids[1:2])*length(x);
+lines(xfit, yfit, col="blue", lwd=2);

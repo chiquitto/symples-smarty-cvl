@@ -1,0 +1,3691 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="746.09998"
+   height="1020.55"
+   viewBox="0 0 746.09998 1020.55"
+   id="svg2"
+   style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Dialog">
+  <metadata
+     id="metadata1219">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="genericDefs">
+    <defs
+       id="defs1">
+      <clipPath
+         id="clipPath1">
+        <path
+           d="M 9,9 756,9 756,1031 9,1031 9,9 z"
+           id="path9" />
+      </clipPath>
+      <clipPath
+         id="clipPath2">
+        <path
+           d="m 19,14 147,0 0,17 -147,0 0,-17 z"
+           id="path12" />
+      </clipPath>
+      <clipPath
+         id="clipPath3">
+        <path
+           d="m 9,30 747,0 0,1001 L 9,1031 9,30 z"
+           id="path15" />
+      </clipPath>
+      <clipPath
+         id="clipPath4">
+        <path
+           d="m 42,339 102,0 0,61 -102,0 0,-61 z"
+           id="path18" />
+      </clipPath>
+      <clipPath
+         id="clipPath5">
+        <path
+           d="m 45,346 99,0 0,17 -99,0 0,-17 z"
+           id="path21" />
+      </clipPath>
+      <clipPath
+         id="clipPath6">
+        <path
+           d="m 45,362 99,0 0,17 -99,0 0,-17 z"
+           id="path24" />
+      </clipPath>
+      <clipPath
+         id="clipPath7">
+        <path
+           d="m 51,378 90,0 0,17 -90,0 0,-17 z"
+           id="path27" />
+      </clipPath>
+      <clipPath
+         id="clipPath8">
+        <path
+           d="m 166,416 123,0 0,61 -123,0 0,-61 z"
+           id="path30" />
+      </clipPath>
+      <clipPath
+         id="clipPath9">
+        <path
+           d="m 169,423 120,0 0,17 -120,0 0,-17 z"
+           id="path33" />
+      </clipPath>
+      <clipPath
+         id="clipPath10">
+        <path
+           d="m 169,439 120,0 0,17 -120,0 0,-17 z"
+           id="path36" />
+      </clipPath>
+      <clipPath
+         id="clipPath11">
+        <path
+           d="m 204,455 53,0 0,17 -53,0 0,-17 z"
+           id="path39" />
+      </clipPath>
+      <clipPath
+         id="clipPath12">
+        <path
+           d="m 166,339 123,0 0,61 -123,0 0,-61 z"
+           id="path42" />
+      </clipPath>
+      <clipPath
+         id="clipPath13">
+        <path
+           d="m 169,346 120,0 0,17 -120,0 0,-17 z"
+           id="path45" />
+      </clipPath>
+      <clipPath
+         id="clipPath14">
+        <path
+           d="m 169,362 120,0 0,17 -120,0 0,-17 z"
+           id="path48" />
+      </clipPath>
+      <clipPath
+         id="clipPath15">
+        <path
+           d="m 191,378 78,0 0,17 -78,0 0,-17 z"
+           id="path51" />
+      </clipPath>
+      <clipPath
+         id="clipPath16">
+        <path
+           d="m 166,259 123,0 0,61 -123,0 0,-61 z"
+           id="path54" />
+      </clipPath>
+      <clipPath
+         id="clipPath17">
+        <path
+           d="m 169,266 120,0 0,17 -120,0 0,-17 z"
+           id="path57" />
+      </clipPath>
+      <clipPath
+         id="clipPath18">
+        <path
+           d="m 169,282 120,0 0,17 -120,0 0,-17 z"
+           id="path60" />
+      </clipPath>
+      <clipPath
+         id="clipPath19">
+        <path
+           d="m 195,298 71,0 0,17 -71,0 0,-17 z"
+           id="path63" />
+      </clipPath>
+      <clipPath
+         id="clipPath20">
+        <path
+           d="m 484,299 123,0 0,61 -123,0 0,-61 z"
+           id="path66" />
+      </clipPath>
+      <clipPath
+         id="clipPath21">
+        <path
+           d="m 487,306 120,0 0,17 -120,0 0,-17 z"
+           id="path69" />
+      </clipPath>
+      <clipPath
+         id="clipPath22">
+        <path
+           d="m 487,322 120,0 0,17 -120,0 0,-17 z"
+           id="path72" />
+      </clipPath>
+      <clipPath
+         id="clipPath23">
+        <path
+           d="m 523,338 51,0 0,17 -51,0 0,-17 z"
+           id="path75" />
+      </clipPath>
+      <clipPath
+         id="clipPath24">
+        <path
+           d="m 42,584 102,0 0,61 -102,0 0,-61 z"
+           id="path78" />
+      </clipPath>
+      <clipPath
+         id="clipPath25">
+        <path
+           d="m 45,591 99,0 0,17 -99,0 0,-17 z"
+           id="path81" />
+      </clipPath>
+      <clipPath
+         id="clipPath26">
+        <path
+           d="m 45,607 99,0 0,17 -99,0 0,-17 z"
+           id="path84" />
+      </clipPath>
+      <clipPath
+         id="clipPath27">
+        <path
+           d="m 52,623 88,0 0,17 -88,0 0,-17 z"
+           id="path87" />
+      </clipPath>
+      <clipPath
+         id="clipPath28">
+        <path
+           d="m 166,502 123,0 0,61 -123,0 0,-61 z"
+           id="path90" />
+      </clipPath>
+      <clipPath
+         id="clipPath29">
+        <path
+           d="m 169,509 120,0 0,17 -120,0 0,-17 z"
+           id="path93" />
+      </clipPath>
+      <clipPath
+         id="clipPath30">
+        <path
+           d="m 169,525 120,0 0,17 -120,0 0,-17 z"
+           id="path96" />
+      </clipPath>
+      <clipPath
+         id="clipPath31">
+        <path
+           d="m 208,541 44,0 0,17 -44,0 0,-17 z"
+           id="path99" />
+      </clipPath>
+      <clipPath
+         id="clipPath32">
+        <path
+           d="m 166,584 123,0 0,61 -123,0 0,-61 z"
+           id="path102" />
+      </clipPath>
+      <clipPath
+         id="clipPath33">
+        <path
+           d="m 169,591 120,0 0,17 -120,0 0,-17 z"
+           id="path105" />
+      </clipPath>
+      <clipPath
+         id="clipPath34">
+        <path
+           d="m 169,607 120,0 0,17 -120,0 0,-17 z"
+           id="path108" />
+      </clipPath>
+      <clipPath
+         id="clipPath35">
+        <path
+           d="m 197,623 67,0 0,17 -67,0 0,-17 z"
+           id="path111" />
+      </clipPath>
+      <clipPath
+         id="clipPath36">
+        <path
+           d="m 166,665 123,0 0,61 -123,0 0,-61 z"
+           id="path114" />
+      </clipPath>
+      <clipPath
+         id="clipPath37">
+        <path
+           d="m 169,672 120,0 0,17 -120,0 0,-17 z"
+           id="path117" />
+      </clipPath>
+      <clipPath
+         id="clipPath38">
+        <path
+           d="m 169,688 120,0 0,17 -120,0 0,-17 z"
+           id="path120" />
+      </clipPath>
+      <clipPath
+         id="clipPath39">
+        <path
+           d="m 220,704 21,0 0,17 -21,0 0,-17 z"
+           id="path123" />
+      </clipPath>
+      <clipPath
+         id="clipPath40">
+        <path
+           d="m 484,665 123,0 0,61 -123,0 0,-61 z"
+           id="path126" />
+      </clipPath>
+      <clipPath
+         id="clipPath41">
+        <path
+           d="m 487,672 120,0 0,17 -120,0 0,-17 z"
+           id="path129" />
+      </clipPath>
+      <clipPath
+         id="clipPath42">
+        <path
+           d="m 487,688 120,0 0,17 -120,0 0,-17 z"
+           id="path132" />
+      </clipPath>
+      <clipPath
+         id="clipPath43">
+        <path
+           d="m 536,704 25,0 0,17 -25,0 0,-17 z"
+           id="path135" />
+      </clipPath>
+      <clipPath
+         id="clipPath44">
+        <path
+           d="m 484,583 123,0 0,61 -123,0 0,-61 z"
+           id="path138" />
+      </clipPath>
+      <clipPath
+         id="clipPath45">
+        <path
+           d="m 487,590 120,0 0,17 -120,0 0,-17 z"
+           id="path141" />
+      </clipPath>
+      <clipPath
+         id="clipPath46">
+        <path
+           d="m 487,606 120,0 0,17 -120,0 0,-17 z"
+           id="path144" />
+      </clipPath>
+      <clipPath
+         id="clipPath47">
+        <path
+           d="m 533,622 31,0 0,17 -31,0 0,-17 z"
+           id="path147" />
+      </clipPath>
+      <clipPath
+         id="clipPath48">
+        <path
+           d="m 484,502 123,0 0,61 -123,0 0,-61 z"
+           id="path150" />
+      </clipPath>
+      <clipPath
+         id="clipPath49">
+        <path
+           d="m 487,509 120,0 0,17 -120,0 0,-17 z"
+           id="path153" />
+      </clipPath>
+      <clipPath
+         id="clipPath50">
+        <path
+           d="m 487,525 120,0 0,17 -120,0 0,-17 z"
+           id="path156" />
+      </clipPath>
+      <clipPath
+         id="clipPath51">
+        <path
+           d="m 521,541 54,0 0,17 -54,0 0,-17 z"
+           id="path159" />
+      </clipPath>
+      <clipPath
+         id="clipPath52">
+        <path
+           d="m 484,377 123,0 0,61 -123,0 0,-61 z"
+           id="path162" />
+      </clipPath>
+      <clipPath
+         id="clipPath53">
+        <path
+           d="m 487,384 120,0 0,17 -120,0 0,-17 z"
+           id="path165" />
+      </clipPath>
+      <clipPath
+         id="clipPath54">
+        <path
+           d="m 487,400 120,0 0,17 -120,0 0,-17 z"
+           id="path168" />
+      </clipPath>
+      <clipPath
+         id="clipPath55">
+        <path
+           d="m 499,416 99,0 0,17 -99,0 0,-17 z"
+           id="path171" />
+      </clipPath>
+      <clipPath
+         id="clipPath56">
+        <path
+           d="m 42,791 102,0 0,61 -102,0 0,-61 z"
+           id="path174" />
+      </clipPath>
+      <clipPath
+         id="clipPath57">
+        <path
+           d="m 45,798 99,0 0,17 -99,0 0,-17 z"
+           id="path177" />
+      </clipPath>
+      <clipPath
+         id="clipPath58">
+        <path
+           d="m 45,814 99,0 0,17 -99,0 0,-17 z"
+           id="path180" />
+      </clipPath>
+      <clipPath
+         id="clipPath59">
+        <path
+           d="m 65,830 62,0 0,17 -62,0 0,-17 z"
+           id="path183" />
+      </clipPath>
+      <clipPath
+         id="clipPath60">
+        <path
+           d="m 166,745 123,0 0,61 -123,0 0,-61 z"
+           id="path186" />
+      </clipPath>
+      <clipPath
+         id="clipPath61">
+        <path
+           d="m 169,752 120,0 0,17 -120,0 0,-17 z"
+           id="path189" />
+      </clipPath>
+      <clipPath
+         id="clipPath62">
+        <path
+           d="m 169,768 120,0 0,17 -120,0 0,-17 z"
+           id="path192" />
+      </clipPath>
+      <clipPath
+         id="clipPath63">
+        <path
+           d="m 207,784 46,0 0,17 -46,0 0,-17 z"
+           id="path195" />
+      </clipPath>
+      <clipPath
+         id="clipPath64">
+        <path
+           d="m 166,828 123,0 0,61 -123,0 0,-61 z"
+           id="path198" />
+      </clipPath>
+      <clipPath
+         id="clipPath65">
+        <path
+           d="m 169,835 120,0 0,17 -120,0 0,-17 z"
+           id="path201" />
+      </clipPath>
+      <clipPath
+         id="clipPath66">
+        <path
+           d="m 169,851 120,0 0,17 -120,0 0,-17 z"
+           id="path204" />
+      </clipPath>
+      <clipPath
+         id="clipPath67">
+        <path
+           d="m 205,867 50,0 0,17 -50,0 0,-17 z"
+           id="path207" />
+      </clipPath>
+      <clipPath
+         id="clipPath68">
+        <path
+           d="m 430,828 123,0 0,61 -123,0 0,-61 z"
+           id="path210" />
+      </clipPath>
+      <clipPath
+         id="clipPath69">
+        <path
+           d="m 433,835 120,0 0,17 -120,0 0,-17 z"
+           id="path213" />
+      </clipPath>
+      <clipPath
+         id="clipPath70">
+        <path
+           d="m 433,851 120,0 0,17 -120,0 0,-17 z"
+           id="path216" />
+      </clipPath>
+      <clipPath
+         id="clipPath71">
+        <path
+           d="m 459,867 70,0 0,17 -70,0 0,-17 z"
+           id="path219" />
+      </clipPath>
+      <clipPath
+         id="clipPath72">
+        <path
+           d="m 484,745 123,0 0,61 -123,0 0,-61 z"
+           id="path222" />
+      </clipPath>
+      <clipPath
+         id="clipPath73">
+        <path
+           d="m 487,752 120,0 0,17 -120,0 0,-17 z"
+           id="path225" />
+      </clipPath>
+      <clipPath
+         id="clipPath74">
+        <path
+           d="m 487,768 120,0 0,17 -120,0 0,-17 z"
+           id="path228" />
+      </clipPath>
+      <clipPath
+         id="clipPath75">
+        <path
+           d="m 515,784 67,0 0,17 -67,0 0,-17 z"
+           id="path231" />
+      </clipPath>
+      <clipPath
+         id="clipPath76">
+        <path
+           d="m 640,791 102,0 0,61 -102,0 0,-61 z"
+           id="path234" />
+      </clipPath>
+      <clipPath
+         id="clipPath77">
+        <path
+           d="m 643,798 99,0 0,17 -99,0 0,-17 z"
+           id="path237" />
+      </clipPath>
+      <clipPath
+         id="clipPath78">
+        <path
+           d="m 643,814 99,0 0,17 -99,0 0,-17 z"
+           id="path240" />
+      </clipPath>
+      <clipPath
+         id="clipPath79">
+        <path
+           d="m 675,830 37,0 0,17 -37,0 0,-17 z"
+           id="path243" />
+      </clipPath>
+      <clipPath
+         id="clipPath80">
+        <path
+           d="m 627,568 102,0 0,61 -102,0 0,-61 z"
+           id="path246" />
+      </clipPath>
+      <clipPath
+         id="clipPath81">
+        <path
+           d="m 630,575 99,0 0,17 -99,0 0,-17 z"
+           id="path249" />
+      </clipPath>
+      <clipPath
+         id="clipPath82">
+        <path
+           d="m 630,591 99,0 0,17 -99,0 0,-17 z"
+           id="path252" />
+      </clipPath>
+      <clipPath
+         id="clipPath83">
+        <path
+           d="m 658,607 45,0 0,17 -45,0 0,-17 z"
+           id="path255" />
+      </clipPath>
+      <clipPath
+         id="clipPath84">
+        <path
+           d="m 627,339 102,0 0,61 -102,0 0,-61 z"
+           id="path258" />
+      </clipPath>
+      <clipPath
+         id="clipPath85">
+        <path
+           d="m 630,346 99,0 0,17 -99,0 0,-17 z"
+           id="path261" />
+      </clipPath>
+      <clipPath
+         id="clipPath86">
+        <path
+           d="m 630,362 99,0 0,17 -99,0 0,-17 z"
+           id="path264" />
+      </clipPath>
+      <clipPath
+         id="clipPath87">
+        <path
+           d="m 645,378 72,0 0,17 -72,0 0,-17 z"
+           id="path267" />
+      </clipPath>
+      <clipPath
+         id="clipPath102">
+        <path
+           d="m -1,-1 767,0 0,1042 -767,0 0,-1042 z"
+           id="path312" />
+      </clipPath>
+      <clipPath
+         id="clipPath103">
+        <path
+           d="m 611,596 19,0 0,15 -19,0 0,-15 z"
+           id="path315" />
+      </clipPath>
+      <clipPath
+         id="clipPath104">
+        <path
+           d="m 142,608 19,0 0,15 -19,0 0,-15 z"
+           id="path318" />
+      </clipPath>
+      <clipPath
+         id="clipPath105">
+        <path
+           d="m 75,643 15,0 0,19 -15,0 0,-19 z"
+           id="path321" />
+      </clipPath>
+      <clipPath
+         id="clipPath106">
+        <path
+           d="m 68,398 15,0 0,19 -15,0 0,-19 z"
+           id="path324" />
+      </clipPath>
+      <clipPath
+         id="clipPath107">
+        <path
+           d="m 295,494 91,0 0,17 -91,0 0,-17 z"
+           id="path327" />
+      </clipPath>
+      <clipPath
+         id="clipPath108">
+        <path
+           d="m 287,508 19,0 0,15 -19,0 0,-15 z"
+           id="path330" />
+      </clipPath>
+      <clipPath
+         id="clipPath109">
+        <path
+           d="m 624,830 19,0 0,15 -19,0 0,-15 z"
+           id="path333" />
+      </clipPath>
+      <clipPath
+         id="clipPath110">
+        <path
+           d="m 666,552 15,0 0,19 -15,0 0,-19 z"
+           id="path336" />
+      </clipPath>
+      <clipPath
+         id="clipPath111">
+        <path
+           d="m 91,775 15,0 0,19 -15,0 0,-19 z"
+           id="path339" />
+      </clipPath>
+      <clipPath
+         id="clipPath112">
+        <path
+           d="m 673,323 15,0 0,19 -15,0 0,-19 z"
+           id="path342" />
+      </clipPath>
+      <clipPath
+         id="clipPath113">
+        <path
+           d="m 706,775 15,0 0,19 -15,0 0,-19 z"
+           id="path345" />
+      </clipPath>
+      <clipPath
+         id="clipPath114">
+        <path
+           d="m 110,323 15,0 0,19 -15,0 0,-19 z"
+           id="path348" />
+      </clipPath>
+      <clipPath
+         id="clipPath115">
+        <path
+           d="m 283,602 81,0 0,17 -81,0 0,-17 z"
+           id="path351" />
+      </clipPath>
+      <clipPath
+         id="clipPath116">
+        <path
+           d="m 468,538 19,0 0,15 -19,0 0,-15 z"
+           id="path354" />
+      </clipPath>
+      <clipPath
+         id="clipPath117">
+        <path
+           d="m 89,850 15,0 0,19 -15,0 0,-19 z"
+           id="path357" />
+      </clipPath>
+      <clipPath
+         id="clipPath118">
+        <path
+           d="m 668,627 15,0 0,19 -15,0 0,-19 z"
+           id="path360" />
+      </clipPath>
+      <clipPath
+         id="clipPath119">
+        <path
+           d="m 671,398 15,0 0,19 -15,0 0,-19 z"
+           id="path363" />
+      </clipPath>
+      <clipPath
+         id="clipPath120">
+        <path
+           d="m 142,360 19,0 0,15 -19,0 0,-15 z"
+           id="path366" />
+      </clipPath>
+      <clipPath
+         id="clipPath121">
+        <path
+           d="m 81,568 15,0 0,19 -15,0 0,-19 z"
+           id="path369" />
+      </clipPath>
+      <clipPath
+         id="clipPath122">
+        <path
+           d="m 447,461 91,0 0,17 -91,0 0,-17 z"
+           id="path372" />
+      </clipPath>
+      <clipPath
+         id="clipPath123">
+        <path
+           d="m 468,328 19,0 0,15 -19,0 0,-15 z"
+           id="path375" />
+      </clipPath>
+      <clipPath
+         id="clipPath124">
+        <path
+           d="m 369,797 91,0 0,17 -91,0 0,-17 z"
+           id="path378" />
+      </clipPath>
+      <clipPath
+         id="clipPath125">
+        <path
+           d="m 287,280 19,0 0,15 -19,0 0,-15 z"
+           id="path381" />
+      </clipPath>
+      <clipPath
+         id="clipPath126">
+        <path
+           d="m 298,661 81,0 0,17 -81,0 0,-17 z"
+           id="path384" />
+      </clipPath>
+      <clipPath
+         id="clipPath127">
+        <path
+           d="m 287,553 19,0 0,15 -19,0 0,-15 z"
+           id="path387" />
+      </clipPath>
+    </defs>
+  </defs>
+  <g
+     transform="translate(-9.45,-9.45)"
+     id="g389"
+     style="font-size:15px;fill:#ffffff;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:0;font-family:Ubuntu">
+    <rect
+       width="165"
+       height="21"
+       x="10"
+       y="10"
+       clip-path="url(#clipPath1)"
+       id="rect391"
+       style="stroke:none" />
+    <rect
+       width="745"
+       height="999"
+       x="10"
+       y="31"
+       clip-path="url(#clipPath1)"
+       id="rect393"
+       style="stroke:none" />
+  </g>
+  <g
+     transform="translate(-9.45,-9.45)"
+     id="g395"
+     style="font-size:15px;stroke-width:1.10000002;stroke-linecap:butt;font-family:Ubuntu">
+    <rect
+       width="165"
+       height="21"
+       x="10"
+       y="10"
+       clip-path="url(#clipPath1)"
+       id="rect397"
+       style="fill:none" />
+    <text
+       x="20"
+       y="27"
+       clip-path="url(#clipPath2)"
+       id="text399"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">estMeteorologica_blocos</text>
+    <rect
+       width="744"
+       height="998"
+       x="10"
+       y="31"
+       clip-path="url(#clipPath3)"
+       id="rect401"
+       style="fill:none" />
+    <rect
+       width="100"
+       height="59"
+       x="43"
+       y="340"
+       clip-path="url(#clipPath4)"
+       id="rect403"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="73"
+       y="359"
+       clip-path="url(#clipPath5)"
+       id="text405"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="56"
+       y="375"
+       clip-path="url(#clipPath6)"
+       id="text407"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«mandatory»</text>
+    <text
+       x="52"
+       y="391"
+       clip-path="url(#clipPath7)"
+       id="text409"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">Measurements</text>
+    <rect
+       width="99"
+       height="58"
+       x="43"
+       y="340"
+       clip-path="url(#clipPath4)"
+       id="rect411"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="167"
+       y="417"
+       clip-path="url(#clipPath8)"
+       id="rect413"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="207"
+       y="436"
+       clip-path="url(#clipPath9)"
+       id="text415"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="180"
+       y="452"
+       clip-path="url(#clipPath10)"
+       id="text417"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_OR»</text>
+    <text
+       x="205"
+       y="468"
+       clip-path="url(#clipPath11)"
+       id="text419"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">Pressure</text>
+    <rect
+       width="120"
+       height="58"
+       x="167"
+       y="417"
+       clip-path="url(#clipPath8)"
+       id="rect421"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="167"
+       y="340"
+       clip-path="url(#clipPath12)"
+       id="rect423"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="207"
+       y="359"
+       clip-path="url(#clipPath13)"
+       id="text425"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="180"
+       y="375"
+       clip-path="url(#clipPath14)"
+       id="text427"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_OR»</text>
+    <text
+       x="192"
+       y="391"
+       clip-path="url(#clipPath15)"
+       id="text429"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">Temperature</text>
+    <rect
+       width="120"
+       height="58"
+       x="167"
+       y="340"
+       clip-path="url(#clipPath12)"
+       id="rect431"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="167"
+       y="260"
+       clip-path="url(#clipPath16)"
+       id="rect433"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="207"
+       y="279"
+       clip-path="url(#clipPath17)"
+       id="text435"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="180"
+       y="295"
+       clip-path="url(#clipPath18)"
+       id="text437"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_OR»</text>
+    <text
+       x="196"
+       y="311"
+       clip-path="url(#clipPath19)"
+       id="text439"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">WindSpeed</text>
+    <rect
+       width="120"
+       height="58"
+       x="167"
+       y="260"
+       clip-path="url(#clipPath16)"
+       id="rect441"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="485"
+       y="300"
+       clip-path="url(#clipPath20)"
+       id="rect443"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="525"
+       y="319"
+       clip-path="url(#clipPath21)"
+       id="text445"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="494"
+       y="335"
+       clip-path="url(#clipPath22)"
+       id="text447"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_XOR»</text>
+    <text
+       x="524"
+       y="351"
+       clip-path="url(#clipPath23)"
+       id="text449"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">Internet</text>
+    <rect
+       width="120"
+       height="58"
+       x="485"
+       y="300"
+       clip-path="url(#clipPath20)"
+       id="rect451"
+       style="fill:none" />
+    <rect
+       width="100"
+       height="59"
+       x="43"
+       y="585"
+       clip-path="url(#clipPath24)"
+       id="rect453"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="73"
+       y="604"
+       clip-path="url(#clipPath25)"
+       id="text455"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="56"
+       y="620"
+       clip-path="url(#clipPath26)"
+       id="text457"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«mandatory»</text>
+    <text
+       x="53"
+       y="636"
+       clip-path="url(#clipPath27)"
+       id="text459"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">OutputFormat</text>
+    <rect
+       width="99"
+       height="58"
+       x="43"
+       y="585"
+       clip-path="url(#clipPath24)"
+       id="rect461"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="167"
+       y="503"
+       clip-path="url(#clipPath28)"
+       id="rect463"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="207"
+       y="522"
+       clip-path="url(#clipPath29)"
+       id="text465"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="176"
+       y="538"
+       clip-path="url(#clipPath30)"
+       id="text467"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_XOR»</text>
+    <text
+       x="209"
+       y="554"
+       clip-path="url(#clipPath31)"
+       id="text469"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">Screen</text>
+    <rect
+       width="120"
+       height="58"
+       x="167"
+       y="503"
+       clip-path="url(#clipPath28)"
+       id="rect471"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="167"
+       y="585"
+       clip-path="url(#clipPath32)"
+       id="rect473"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="207"
+       y="604"
+       clip-path="url(#clipPath33)"
+       id="text475"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="176"
+       y="620"
+       clip-path="url(#clipPath34)"
+       id="text477"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_XOR»</text>
+    <text
+       x="198"
+       y="636"
+       clip-path="url(#clipPath35)"
+       id="text479"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">WebServer</text>
+    <rect
+       width="120"
+       height="58"
+       x="167"
+       y="585"
+       clip-path="url(#clipPath32)"
+       id="rect481"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="167"
+       y="666"
+       clip-path="url(#clipPath36)"
+       id="rect483"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="207"
+       y="685"
+       clip-path="url(#clipPath37)"
+       id="text485"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="176"
+       y="701"
+       clip-path="url(#clipPath38)"
+       id="text487"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_XOR»</text>
+    <text
+       x="221"
+       y="717"
+       clip-path="url(#clipPath39)"
+       id="text489"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">File</text>
+    <rect
+       width="120"
+       height="58"
+       x="167"
+       y="666"
+       clip-path="url(#clipPath36)"
+       id="rect491"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="485"
+       y="666"
+       clip-path="url(#clipPath40)"
+       id="rect493"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="525"
+       y="685"
+       clip-path="url(#clipPath41)"
+       id="text495"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="494"
+       y="701"
+       clip-path="url(#clipPath42)"
+       id="text497"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_XOR»</text>
+    <text
+       x="537"
+       y="717"
+       clip-path="url(#clipPath43)"
+       id="text499"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">Xml</text>
+    <rect
+       width="120"
+       height="58"
+       x="485"
+       y="666"
+       clip-path="url(#clipPath40)"
+       id="rect501"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="485"
+       y="584"
+       clip-path="url(#clipPath44)"
+       id="rect503"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="525"
+       y="603"
+       clip-path="url(#clipPath45)"
+       id="text505"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="494"
+       y="619"
+       clip-path="url(#clipPath46)"
+       id="text507"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_XOR»</text>
+    <text
+       x="534"
+       y="635"
+       clip-path="url(#clipPath47)"
+       id="text509"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">Html</text>
+    <rect
+       width="120"
+       height="58"
+       x="485"
+       y="584"
+       clip-path="url(#clipPath44)"
+       id="rect511"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="485"
+       y="503"
+       clip-path="url(#clipPath48)"
+       id="rect513"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="525"
+       y="522"
+       clip-path="url(#clipPath49)"
+       id="text515"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="494"
+       y="538"
+       clip-path="url(#clipPath50)"
+       id="text517"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_XOR»</text>
+    <text
+       x="522"
+       y="554"
+       clip-path="url(#clipPath51)"
+       id="text519"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">PlainText</text>
+    <rect
+       width="120"
+       height="58"
+       x="485"
+       y="503"
+       clip-path="url(#clipPath48)"
+       id="rect521"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="485"
+       y="378"
+       clip-path="url(#clipPath52)"
+       id="rect523"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="525"
+       y="397"
+       clip-path="url(#clipPath53)"
+       id="text525"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="494"
+       y="413"
+       clip-path="url(#clipPath54)"
+       id="text527"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_XOR»</text>
+    <text
+       x="500"
+       y="429"
+       clip-path="url(#clipPath55)"
+       id="text529"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">ExternalSensors</text>
+    <rect
+       width="120"
+       height="58"
+       x="485"
+       y="378"
+       clip-path="url(#clipPath52)"
+       id="rect531"
+       style="fill:none" />
+    <rect
+       width="100"
+       height="59"
+       x="43"
+       y="792"
+       clip-path="url(#clipPath56)"
+       id="rect533"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="73"
+       y="811"
+       clip-path="url(#clipPath57)"
+       id="text535"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="56"
+       y="827"
+       clip-path="url(#clipPath58)"
+       id="text537"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«mandatory»</text>
+    <text
+       x="66"
+       y="843"
+       clip-path="url(#clipPath59)"
+       id="text539"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">Language</text>
+    <rect
+       width="99"
+       height="58"
+       x="43"
+       y="792"
+       clip-path="url(#clipPath56)"
+       id="rect541"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="167"
+       y="746"
+       clip-path="url(#clipPath60)"
+       id="rect543"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="207"
+       y="765"
+       clip-path="url(#clipPath61)"
+       id="text545"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="176"
+       y="781"
+       clip-path="url(#clipPath62)"
+       id="text547"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_XOR»</text>
+    <text
+       x="208"
+       y="797"
+       clip-path="url(#clipPath63)"
+       id="text549"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">English</text>
+    <rect
+       width="120"
+       height="58"
+       x="167"
+       y="746"
+       clip-path="url(#clipPath60)"
+       id="rect551"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="167"
+       y="829"
+       clip-path="url(#clipPath64)"
+       id="rect553"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="207"
+       y="848"
+       clip-path="url(#clipPath65)"
+       id="text555"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="176"
+       y="864"
+       clip-path="url(#clipPath66)"
+       id="text557"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_XOR»</text>
+    <text
+       x="206"
+       y="880"
+       clip-path="url(#clipPath67)"
+       id="text559"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">German</text>
+    <rect
+       width="120"
+       height="58"
+       x="167"
+       y="829"
+       clip-path="url(#clipPath64)"
+       id="rect561"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="431"
+       y="829"
+       clip-path="url(#clipPath68)"
+       id="rect563"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="471"
+       y="848"
+       clip-path="url(#clipPath69)"
+       id="text565"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="444"
+       y="864"
+       clip-path="url(#clipPath70)"
+       id="text567"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_OR»</text>
+    <text
+       x="460"
+       y="880"
+       clip-path="url(#clipPath71)"
+       id="text569"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">FreezePoint</text>
+    <rect
+       width="120"
+       height="58"
+       x="431"
+       y="829"
+       clip-path="url(#clipPath68)"
+       id="rect571"
+       style="fill:none" />
+    <rect
+       width="121"
+       height="59"
+       x="485"
+       y="746"
+       clip-path="url(#clipPath72)"
+       id="rect573"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="525"
+       y="765"
+       clip-path="url(#clipPath73)"
+       id="text575"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="498"
+       y="781"
+       clip-path="url(#clipPath74)"
+       id="text577"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«alternative_OR»</text>
+    <text
+       x="516"
+       y="797"
+       clip-path="url(#clipPath75)"
+       id="text579"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">StormAlert</text>
+    <rect
+       width="120"
+       height="58"
+       x="485"
+       y="746"
+       clip-path="url(#clipPath72)"
+       id="rect581"
+       style="fill:none" />
+    <rect
+       width="100"
+       height="59"
+       x="641"
+       y="792"
+       clip-path="url(#clipPath76)"
+       id="rect583"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="671"
+       y="811"
+       clip-path="url(#clipPath77)"
+       id="text585"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="663"
+       y="827"
+       clip-path="url(#clipPath78)"
+       id="text587"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«optional»</text>
+    <text
+       x="676"
+       y="843"
+       clip-path="url(#clipPath79)"
+       id="text589"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">Alarm</text>
+    <rect
+       width="99"
+       height="58"
+       x="641"
+       y="792"
+       clip-path="url(#clipPath76)"
+       id="rect591"
+       style="fill:none" />
+    <rect
+       width="100"
+       height="59"
+       x="628"
+       y="569"
+       clip-path="url(#clipPath80)"
+       id="rect593"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="658"
+       y="588"
+       clip-path="url(#clipPath81)"
+       id="text595"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="641"
+       y="604"
+       clip-path="url(#clipPath82)"
+       id="text597"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«mandatory»</text>
+    <text
+       x="659"
+       y="620"
+       clip-path="url(#clipPath83)"
+       id="text599"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">Format</text>
+    <rect
+       width="99"
+       height="58"
+       x="628"
+       y="569"
+       clip-path="url(#clipPath80)"
+       id="rect601"
+       style="fill:none" />
+    <rect
+       width="100"
+       height="59"
+       x="628"
+       y="340"
+       clip-path="url(#clipPath84)"
+       id="rect603"
+       style="fill:#ffffff;stroke:none" />
+    <text
+       x="658"
+       y="359"
+       clip-path="url(#clipPath85)"
+       id="text605"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«block»</text>
+    <text
+       x="641"
+       y="375"
+       clip-path="url(#clipPath86)"
+       id="text607"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">«mandatory»</text>
+    <text
+       x="646"
+       y="391"
+       clip-path="url(#clipPath87)"
+       id="text609"
+       xml:space="preserve"
+       style="font-size:12px;stroke:none;font-family:Dialog">DataSource</text>
+    <rect
+       width="99"
+       height="58"
+       x="628"
+       y="340"
+       clip-path="url(#clipPath84)"
+       id="rect611"
+       style="fill:none" />
+  </g>
+  <path
+     d="m 34.55,130.55 255,0 12,12 0,90 -267,0 z m 0,0"
+     id="path615"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <text
+     x="40.549999"
+     y="147.55"
+     id="text617"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">name = Measurements</text>
+  <text
+     x="40.549999"
+     y="160.55"
+     id="text619"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">minSelection = 1</text>
+  <text
+     x="40.549999"
+     y="173.55"
+     id="text621"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">maxSelection = 3</text>
+  <text
+     x="40.549999"
+     y="186.55"
+     id="text623"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">bindingTime = DESIGN_TIME</text>
+  <text
+     x="40.549999"
+     y="199.55"
+     id="text625"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">allowsAddingVar = false</text>
+  <text
+     x="40.549999"
+     y="212.55"
+     id="text627"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">variants = {WindSpeed,Temperature,</text>
+  <text
+     x="40.549999"
+     y="225.55"
+     id="text629"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">Pressure}</text>
+  <line
+     clip-path="none"
+     x1="34.549999"
+     x2="289.54999"
+     y1="130.55"
+     y2="130.55"
+     id="line631"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="289.54999"
+     x2="301.54999"
+     y1="130.55"
+     y2="142.55"
+     id="line633"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="301.54999"
+     x2="301.54999"
+     y1="142.55"
+     y2="232.55"
+     id="line635"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="301.54999"
+     x2="34.549999"
+     y1="232.55"
+     y2="232.55"
+     id="line637"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="34.549999"
+     x2="34.549999"
+     y1="232.55"
+     y2="130.55"
+     id="line639"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="34.549999"
+     x2="34.549999"
+     y1="130.55"
+     y2="130.55"
+     id="line641"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="289.54999"
+     x2="289.54999"
+     y1="130.55"
+     y2="142.55"
+     id="line643"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="289.54999"
+     x2="302.54999"
+     y1="142.55"
+     y2="142.55"
+     id="line645"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <path
+     d="m 34.55,32.55 253,0 12,12 0,77 -265,0 z m 0,0"
+     id="path647"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <text
+     x="40.549999"
+     y="49.549999"
+     id="text649"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">name = OutputFormat</text>
+  <text
+     x="40.549999"
+     y="62.549999"
+     id="text651"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">minSelection = 1</text>
+  <text
+     x="40.549999"
+     y="75.550003"
+     id="text653"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">maxSelection = 1</text>
+  <text
+     x="40.549999"
+     y="88.550003"
+     id="text655"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">bindingTime = DESIGN_TIME</text>
+  <text
+     x="40.549999"
+     y="101.55"
+     id="text657"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">allowsAddingVar = false</text>
+  <text
+     x="40.549999"
+     y="114.55"
+     id="text659"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">variants = {Screen,WebServer,File}</text>
+  <line
+     clip-path="none"
+     x1="34.549999"
+     x2="287.54999"
+     y1="32.549999"
+     y2="32.549999"
+     id="line661"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="287.54999"
+     x2="299.54999"
+     y1="32.549999"
+     y2="44.549999"
+     id="line663"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="299.54999"
+     x2="299.54999"
+     y1="44.549999"
+     y2="121.55"
+     id="line665"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="299.54999"
+     x2="34.549999"
+     y1="121.55"
+     y2="121.55"
+     id="line667"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="34.549999"
+     x2="34.549999"
+     y1="121.55"
+     y2="32.549999"
+     id="line669"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="34.549999"
+     x2="34.549999"
+     y1="32.549999"
+     y2="32.549999"
+     id="line671"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="287.54999"
+     x2="287.54999"
+     y1="32.549999"
+     y2="44.549999"
+     id="line673"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="287.54999"
+     x2="300.54999"
+     y1="44.549999"
+     y2="44.549999"
+     id="line675"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <path
+     d="m 438.55,140.55 267,0 12,12 0,77 -279,0 z m 0,0"
+     id="path677"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <text
+     x="444.54999"
+     y="157.55"
+     id="text679"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">name = DataSource</text>
+  <text
+     x="444.54999"
+     y="170.55"
+     id="text681"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">minSelection = 1</text>
+  <text
+     x="444.54999"
+     y="183.55"
+     id="text683"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">maxSelection = 1</text>
+  <text
+     x="444.54999"
+     y="196.55"
+     id="text685"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">bindingTime = DESIGN_TIME</text>
+  <text
+     x="444.54999"
+     y="209.55"
+     id="text687"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">allowsAddingVar = false</text>
+  <text
+     x="444.54999"
+     y="222.55"
+     id="text689"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">variants = {Internet,ExternalSensors}</text>
+  <line
+     clip-path="none"
+     x1="438.54999"
+     x2="705.54999"
+     y1="140.55"
+     y2="140.55"
+     id="line691"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="705.54999"
+     x2="717.54999"
+     y1="140.55"
+     y2="152.55"
+     id="line693"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="717.54999"
+     x2="717.54999"
+     y1="152.55"
+     y2="229.55"
+     id="line695"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="717.54999"
+     x2="438.54999"
+     y1="229.55"
+     y2="229.55"
+     id="line697"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="438.54999"
+     x2="438.54999"
+     y1="229.55"
+     y2="140.55"
+     id="line699"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="438.54999"
+     x2="438.54999"
+     y1="140.55"
+     y2="140.55"
+     id="line701"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="705.54999"
+     x2="705.54999"
+     y1="140.55"
+     y2="152.55"
+     id="line703"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="705.54999"
+     x2="718.54999"
+     y1="152.55"
+     y2="152.55"
+     id="line705"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <path
+     d="m 433.55,32.55 271,0 12,12 0,77 -283,0 z m 0,0"
+     id="path707"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <text
+     x="439.54999"
+     y="49.549999"
+     id="text709"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">name = Format</text>
+  <text
+     x="439.54999"
+     y="62.549999"
+     id="text711"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">minSelection = 1</text>
+  <text
+     x="439.54999"
+     y="75.550003"
+     id="text713"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">maxSelection = 1</text>
+  <text
+     x="439.54999"
+     y="88.550003"
+     id="text715"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">bindingTime = DESIGN_TIME</text>
+  <text
+     x="439.54999"
+     y="101.55"
+     id="text717"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">allowsAddingVar = false</text>
+  <text
+     x="439.54999"
+     y="114.55"
+     id="text719"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">variants = {PlainText,Html,Xml}</text>
+  <line
+     clip-path="none"
+     x1="433.54999"
+     x2="704.54999"
+     y1="32.549999"
+     y2="32.549999"
+     id="line721"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="704.54999"
+     x2="716.54999"
+     y1="32.549999"
+     y2="44.549999"
+     id="line723"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="716.54999"
+     x2="716.54999"
+     y1="44.549999"
+     y2="121.55"
+     id="line725"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="716.54999"
+     x2="433.54999"
+     y1="121.55"
+     y2="121.55"
+     id="line727"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="433.54999"
+     x2="433.54999"
+     y1="121.55"
+     y2="32.549999"
+     id="line729"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="433.54999"
+     x2="433.54999"
+     y1="32.549999"
+     y2="32.549999"
+     id="line731"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="704.54999"
+     x2="704.54999"
+     y1="32.549999"
+     y2="44.549999"
+     id="line733"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="704.54999"
+     x2="717.54999"
+     y1="44.549999"
+     y2="44.549999"
+     id="line735"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <path
+     d="m 33.55,896.55 227,0 12,12 0,77 -239,0 z m 0,0"
+     id="path737"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <text
+     x="39.549999"
+     y="913.54999"
+     id="text739"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">name = Language</text>
+  <text
+     x="39.549999"
+     y="926.54999"
+     id="text741"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">minSelection = 1</text>
+  <text
+     x="39.549999"
+     y="939.54999"
+     id="text743"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">maxSelection = 1</text>
+  <text
+     x="39.549999"
+     y="952.54999"
+     id="text745"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">bindingTime = DESIGN_TIME</text>
+  <text
+     x="39.549999"
+     y="965.54999"
+     id="text747"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">allowsAddingVar = false</text>
+  <text
+     x="39.549999"
+     y="978.54999"
+     id="text749"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">variants = {English,German}</text>
+  <line
+     clip-path="none"
+     x1="33.549999"
+     x2="260.54999"
+     y1="896.54999"
+     y2="896.54999"
+     id="line751"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="260.54999"
+     x2="272.54999"
+     y1="896.54999"
+     y2="908.54999"
+     id="line753"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="272.54999"
+     x2="272.54999"
+     y1="908.54999"
+     y2="985.54999"
+     id="line755"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="272.54999"
+     x2="33.549999"
+     y1="985.54999"
+     y2="985.54999"
+     id="line757"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="33.549999"
+     x2="33.549999"
+     y1="985.54999"
+     y2="896.54999"
+     id="line759"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="33.549999"
+     x2="33.549999"
+     y1="896.54999"
+     y2="896.54999"
+     id="line761"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="260.54999"
+     x2="260.54999"
+     y1="896.54999"
+     y2="908.54999"
+     id="line763"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="260.54999"
+     x2="273.54999"
+     y1="908.54999"
+     y2="908.54999"
+     id="line765"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <path
+     d="m 310.55,896.55 199,0 12,12 0,90 -211,0 z m 0,0"
+     id="path767"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <text
+     x="316.54999"
+     y="913.54999"
+     id="text769"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">name = AlarmFeatures</text>
+  <text
+     x="316.54999"
+     y="926.54999"
+     id="text771"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">minSelection = 1</text>
+  <text
+     x="316.54999"
+     y="939.54999"
+     id="text773"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">maxSelection = 2</text>
+  <text
+     x="316.54999"
+     y="952.54999"
+     id="text775"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">bindingTime = DESIGN_TIME</text>
+  <text
+     x="316.54999"
+     y="965.54999"
+     id="text777"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">allowsAddingVar = false</text>
+  <text
+     x="316.54999"
+     y="978.54999"
+     id="text779"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">variants = {StormAlert,</text>
+  <text
+     x="316.54999"
+     y="991.54999"
+     id="text781"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">FreezePoint}</text>
+  <line
+     clip-path="none"
+     x1="310.54999"
+     x2="509.54999"
+     y1="896.54999"
+     y2="896.54999"
+     id="line783"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="509.54999"
+     x2="521.54999"
+     y1="896.54999"
+     y2="908.54999"
+     id="line785"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="521.54999"
+     x2="521.54999"
+     y1="908.54999"
+     y2="998.54999"
+     id="line787"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="521.54999"
+     x2="310.54999"
+     y1="998.54999"
+     y2="998.54999"
+     id="line789"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="310.54999"
+     x2="310.54999"
+     y1="998.54999"
+     y2="896.54999"
+     id="line791"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="310.54999"
+     x2="310.54999"
+     y1="896.54999"
+     y2="896.54999"
+     id="line793"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="509.54999"
+     x2="509.54999"
+     y1="896.54999"
+     y2="908.54999"
+     id="line795"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="509.54999"
+     x2="522.54999"
+     y1="908.54999"
+     y2="908.54999"
+     id="line797"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <path
+     d="m 567.55,896.55 151,0 12,12 0,77 -163,0 z m 0,0"
+     id="path799"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <text
+     x="573.54999"
+     y="913.54999"
+     id="text801"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">name = Alarm</text>
+  <text
+     x="573.54999"
+     y="926.54999"
+     id="text803"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">minSelection = 0</text>
+  <text
+     x="573.54999"
+     y="939.54999"
+     id="text805"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">maxSelection = 1</text>
+  <text
+     x="573.54999"
+     y="952.54999"
+     id="text807"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">bindingTime = DESIGN_TIME</text>
+  <text
+     x="573.54999"
+     y="965.54999"
+     id="text809"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">allowsAddingVar = false</text>
+  <text
+     x="573.54999"
+     y="978.54999"
+     id="text811"
+     xml:space="preserve"
+     style="font-size:11px;fill:#000000;stroke:none">variants = {Alarm}</text>
+  <line
+     clip-path="none"
+     x1="567.54999"
+     x2="718.54999"
+     y1="896.54999"
+     y2="896.54999"
+     id="line813"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="718.54999"
+     x2="730.54999"
+     y1="896.54999"
+     y2="908.54999"
+     id="line815"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="730.54999"
+     x2="730.54999"
+     y1="908.54999"
+     y2="985.54999"
+     id="line817"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="730.54999"
+     x2="567.54999"
+     y1="985.54999"
+     y2="985.54999"
+     id="line819"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="567.54999"
+     x2="567.54999"
+     y1="985.54999"
+     y2="896.54999"
+     id="line821"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="567.54999"
+     x2="567.54999"
+     y1="896.54999"
+     y2="896.54999"
+     id="line823"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="718.54999"
+     x2="718.54999"
+     y1="896.54999"
+     y2="908.54999"
+     id="line825"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <line
+     clip-path="none"
+     x1="718.54999"
+     x2="731.54999"
+     y1="908.54999"
+     y2="908.54999"
+     id="line827"
+     style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt"
+     mask="none" />
+  <g
+     transform="translate(-9.45,-9.45)"
+     id="g829"
+     style="font-size:15px;stroke-width:1.10000002;stroke-linecap:butt;font-family:Ubuntu">
+    <line
+       style="fill:none"
+       id="line831"
+       y2="31"
+       y1="31"
+       x2="755"
+       x1="10"
+       clip-path="url(#clipPath3)" />
+    <rect
+       width="165"
+       height="21"
+       x="10"
+       y="10"
+       clip-path="url(#clipPath1)"
+       id="rect833"
+       style="fill:none;stroke-width:0.1" />
+    <line
+       style="fill:none"
+       id="line835"
+       y2="603"
+       y1="603"
+       x2="628"
+       x1="606"
+       text-rendering="optimizeLegibility"
+       clip-path="url(#clipPath102)" />
+  </g>
+  <g
+     transform="translate(-9.45,-9.45)"
+     id="g837"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:1.10000002;stroke-linecap:butt">
+    <polygon
+       points="628,603 612,609 612,597 "
+       clip-path="url(#clipPath103)"
+       id="polygon839"
+       style="stroke:none" />
+    <polygon
+       points="628,603 612,609 612,597 "
+       clip-path="url(#clipPath103)"
+       id="polygon841"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line843"
+       y2="340"
+       y1="243"
+       x2="86"
+       x1="86"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line845"
+       y2="615"
+       y1="615"
+       x2="143"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="143,615 159,609 159,621 "
+       clip-path="url(#clipPath104)"
+       id="polygon847"
+       style="stroke:none" />
+    <polygon
+       points="143,615 159,609 159,621 "
+       clip-path="url(#clipPath104)"
+       id="polygon849"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line851"
+       y2="694"
+       y1="694"
+       x2="82"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line853"
+       y2="644"
+       y1="694"
+       x2="82"
+       x1="82"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="82,644 88,660 76,660 "
+       clip-path="url(#clipPath105)"
+       id="polygon855"
+       style="stroke:none" />
+    <polygon
+       points="82,644 88,660 76,660 "
+       clip-path="url(#clipPath105)"
+       id="polygon857"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line859"
+       y2="851"
+       y1="906"
+       x2="722"
+       x1="722"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line861"
+       y2="87"
+       y1="87"
+       x2="740"
+       x1="727"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line863"
+       y2="591"
+       y1="87"
+       x2="740"
+       x1="740"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line865"
+       y2="591"
+       y1="591"
+       x2="728"
+       x1="740"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line867"
+       y2="451"
+       y1="451"
+       x2="75"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line869"
+       y2="399"
+       y1="451"
+       x2="75"
+       x1="75"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="75,399 81,415 69,415 "
+       clip-path="url(#clipPath106)"
+       id="polygon871"
+       style="stroke:none" />
+    <polygon
+       points="75,399 81,415 69,415 "
+       clip-path="url(#clipPath106)"
+       id="polygon873"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line875"
+       y2="515"
+       y1="515"
+       x2="288"
+       x1="485"
+       clip-path="url(#clipPath102)" />
+    <text
+       x="296"
+       y="507"
+       clip-path="url(#clipPath107)"
+       id="text877"
+       xml:space="preserve"
+       style="fill:#000000;stroke:none">&lt;&lt;requires&gt;&gt;</text>
+    <line
+       style="fill:none;stroke:#000000"
+       id="line879"
+       y2="515"
+       y1="509"
+       x2="288"
+       x1="304"
+       clip-path="url(#clipPath108)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line881"
+       y2="521"
+       y1="515"
+       x2="304"
+       x1="288"
+       clip-path="url(#clipPath108)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line883"
+       y2="837"
+       y1="837"
+       x2="641"
+       x1="552"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="641,837 625,843 625,831 "
+       clip-path="url(#clipPath109)"
+       id="polygon885"
+       style="stroke:none" />
+    <polygon
+       points="641,837 625,843 625,831 "
+       clip-path="url(#clipPath109)"
+       id="polygon887"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line889"
+       y2="526"
+       y1="526"
+       x2="673"
+       x1="606"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line891"
+       y2="569"
+       y1="526"
+       x2="673"
+       x1="673"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="673,569 667,553 679,553 "
+       clip-path="url(#clipPath110)"
+       id="polygon893"
+       style="stroke:none" />
+    <polygon
+       points="673,569 667,553 679,553 "
+       clip-path="url(#clipPath110)"
+       id="polygon895"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line897"
+       y2="762"
+       y1="762"
+       x2="98"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line899"
+       y2="792"
+       y1="762"
+       x2="98"
+       x1="98"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="98,792 92,776 104,776 "
+       clip-path="url(#clipPath111)"
+       id="polygon901"
+       style="stroke:none" />
+    <polygon
+       points="98,792 92,776 104,776 "
+       clip-path="url(#clipPath111)"
+       id="polygon903"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line905"
+       y2="318"
+       y1="318"
+       x2="680"
+       x1="606"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line907"
+       y2="340"
+       y1="318"
+       x2="680"
+       x1="680"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="680,340 674,324 686,324 "
+       clip-path="url(#clipPath112)"
+       id="polygon909"
+       style="stroke:none" />
+    <polygon
+       points="680,340 674,324 686,324 "
+       clip-path="url(#clipPath112)"
+       id="polygon911"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line913"
+       y2="851"
+       y1="906"
+       x2="67"
+       x1="67"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line915"
+       y2="851"
+       y1="923"
+       x2="666"
+       x1="532"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line917"
+       y2="340"
+       y1="240"
+       x2="704"
+       x1="704"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line919"
+       y2="753"
+       y1="753"
+       x2="713"
+       x1="606"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line921"
+       y2="792"
+       y1="753"
+       x2="713"
+       x1="713"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="713,792 707,776 719,776 "
+       clip-path="url(#clipPath113)"
+       id="polygon923"
+       style="stroke:none" />
+    <polygon
+       points="713,792 707,776 719,776 "
+       clip-path="url(#clipPath113)"
+       id="polygon925"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line927"
+       y2="304"
+       y1="304"
+       x2="117"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line929"
+       y2="340"
+       y1="304"
+       x2="117"
+       x1="117"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="117,340 111,324 123,324 "
+       clip-path="url(#clipPath114)"
+       id="polygon931"
+       style="stroke:none" />
+    <polygon
+       points="117,340 111,324 123,324 "
+       clip-path="url(#clipPath114)"
+       id="polygon933"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line935"
+       y2="600"
+       y1="600"
+       x2="355"
+       x1="288"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line937"
+       y2="545"
+       y1="600"
+       x2="355"
+       x1="355"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line939"
+       y2="545"
+       y1="545"
+       x2="485"
+       x1="355"
+       clip-path="url(#clipPath102)" />
+    <text
+       x="284"
+       y="615"
+       clip-path="url(#clipPath115)"
+       id="text941"
+       xml:space="preserve"
+       style="fill:#000000;stroke:none">&lt;&lt;mutex&gt;&gt;</text>
+    <line
+       style="fill:none;stroke:#000000"
+       id="line943"
+       y2="545"
+       y1="551"
+       x2="485"
+       x1="469"
+       clip-path="url(#clipPath116)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line945"
+       y2="539"
+       y1="545"
+       x2="469"
+       x1="485"
+       clip-path="url(#clipPath116)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line947"
+       y2="873"
+       y1="873"
+       x2="96"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line949"
+       y2="851"
+       y1="873"
+       x2="96"
+       x1="96"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="96,851 102,867 90,867 "
+       clip-path="url(#clipPath117)"
+       id="polygon951"
+       style="stroke:none" />
+    <polygon
+       points="96,851 102,867 90,867 "
+       clip-path="url(#clipPath117)"
+       id="polygon953"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line955"
+       y2="697"
+       y1="697"
+       x2="675"
+       x1="606"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line957"
+       y2="628"
+       y1="697"
+       x2="675"
+       x1="675"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="675,628 681,644 669,644 "
+       clip-path="url(#clipPath118)"
+       id="polygon959"
+       style="stroke:none" />
+    <polygon
+       points="675,628 681,644 669,644 "
+       clip-path="url(#clipPath118)"
+       id="polygon961"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line963"
+       y2="87"
+       y1="87"
+       x2="30"
+       x1="44"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line965"
+       y2="614"
+       y1="87"
+       x2="30"
+       x1="30"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line967"
+       y2="614"
+       y1="614"
+       x2="43"
+       x1="30"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line969"
+       y2="422"
+       y1="422"
+       x2="678"
+       x1="606"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line971"
+       y2="399"
+       y1="422"
+       x2="678"
+       x1="678"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="678,399 684,415 672,415 "
+       clip-path="url(#clipPath119)"
+       id="polygon973"
+       style="stroke:none" />
+    <polygon
+       points="678,399 684,415 672,415 "
+       clip-path="url(#clipPath119)"
+       id="polygon975"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line977"
+       y2="367"
+       y1="367"
+       x2="143"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="143,367 159,361 159,373 "
+       clip-path="url(#clipPath120)"
+       id="polygon979"
+       style="stroke:none" />
+    <polygon
+       points="143,367 159,361 159,373 "
+       clip-path="url(#clipPath120)"
+       id="polygon981"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line983"
+       y2="531"
+       y1="531"
+       x2="88"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line985"
+       y2="585"
+       y1="531"
+       x2="88"
+       x1="88"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="88,585 82,569 94,569 "
+       clip-path="url(#clipPath121)"
+       id="polygon987"
+       style="stroke:none" />
+    <polygon
+       points="88,585 82,569 94,569 "
+       clip-path="url(#clipPath121)"
+       id="polygon989"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line991"
+       y2="763"
+       y1="763"
+       x2="451"
+       x1="485"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line993"
+       y2="335"
+       y1="763"
+       x2="451"
+       x1="451"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line995"
+       y2="335"
+       y1="335"
+       x2="485"
+       x1="451"
+       clip-path="url(#clipPath102)" />
+    <text
+       x="448"
+       y="474"
+       clip-path="url(#clipPath122)"
+       id="text997"
+       xml:space="preserve"
+       style="fill:#000000;stroke:none">&lt;&lt;requires&gt;&gt;</text>
+    <line
+       style="fill:none;stroke:#000000"
+       id="line999"
+       y2="335"
+       y1="341"
+       x2="485"
+       x1="469"
+       clip-path="url(#clipPath123)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1001"
+       y2="329"
+       y1="335"
+       x2="469"
+       x1="485"
+       clip-path="url(#clipPath123)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1003"
+       y2="786"
+       y1="786"
+       x2="414"
+       x1="485"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1005"
+       y2="287"
+       y1="786"
+       x2="414"
+       x1="414"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1007"
+       y2="287"
+       y1="287"
+       x2="288"
+       x1="414"
+       clip-path="url(#clipPath102)" />
+    <text
+       x="370"
+       y="810"
+       clip-path="url(#clipPath124)"
+       id="text1009"
+       xml:space="preserve"
+       style="fill:#000000;stroke:none">&lt;&lt;requires&gt;&gt;</text>
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1011"
+       y2="287"
+       y1="281"
+       x2="288"
+       x1="304"
+       clip-path="url(#clipPath125)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1013"
+       y2="293"
+       y1="287"
+       x2="304"
+       x1="288"
+       clip-path="url(#clipPath125)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1015"
+       y2="700"
+       y1="700"
+       x2="378"
+       x1="485"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1017"
+       y2="560"
+       y1="700"
+       x2="378"
+       x1="378"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1019"
+       y2="560"
+       y1="560"
+       x2="288"
+       x1="378"
+       clip-path="url(#clipPath102)" />
+    <text
+       x="299"
+       y="674"
+       clip-path="url(#clipPath126)"
+       id="text1021"
+       xml:space="preserve"
+       style="fill:#000000;stroke:none">&lt;&lt;mutex&gt;&gt;</text>
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1023"
+       y2="560"
+       y1="554"
+       x2="288"
+       x1="304"
+       clip-path="url(#clipPath127)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1025"
+       y2="566"
+       y1="560"
+       x2="304"
+       x1="288"
+       clip-path="url(#clipPath127)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1027"
+       y2="451"
+       y1="451"
+       x2="75"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1029"
+       y2="399"
+       y1="451"
+       x2="75"
+       x1="75"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="75,399 81,415 69,415 "
+       clip-path="url(#clipPath106)"
+       id="polygon1031"
+       style="stroke:none" />
+    <polygon
+       points="75,399 81,415 69,415 "
+       clip-path="url(#clipPath106)"
+       id="polygon1033"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1035"
+       y2="367"
+       y1="367"
+       x2="143"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="143,367 159,361 159,373 "
+       clip-path="url(#clipPath120)"
+       id="polygon1037"
+       style="stroke:none" />
+    <polygon
+       points="143,367 159,361 159,373 "
+       clip-path="url(#clipPath120)"
+       id="polygon1039"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1041"
+       y2="304"
+       y1="304"
+       x2="117"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1043"
+       y2="340"
+       y1="304"
+       x2="117"
+       x1="117"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="117,340 111,324 123,324 "
+       clip-path="url(#clipPath114)"
+       id="polygon1045"
+       style="stroke:none" />
+    <polygon
+       points="117,340 111,324 123,324 "
+       clip-path="url(#clipPath114)"
+       id="polygon1047"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1049"
+       y2="318"
+       y1="318"
+       x2="680"
+       x1="606"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1051"
+       y2="340"
+       y1="318"
+       x2="680"
+       x1="680"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="680,340 674,324 686,324 "
+       clip-path="url(#clipPath112)"
+       id="polygon1053"
+       style="stroke:none" />
+    <polygon
+       points="680,340 674,324 686,324 "
+       clip-path="url(#clipPath112)"
+       id="polygon1055"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1057"
+       y2="422"
+       y1="422"
+       x2="678"
+       x1="606"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1059"
+       y2="399"
+       y1="422"
+       x2="678"
+       x1="678"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="678,399 684,415 672,415 "
+       clip-path="url(#clipPath119)"
+       id="polygon1061"
+       style="stroke:none" />
+    <polygon
+       points="678,399 684,415 672,415 "
+       clip-path="url(#clipPath119)"
+       id="polygon1063"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1065"
+       y2="531"
+       y1="531"
+       x2="88"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1067"
+       y2="585"
+       y1="531"
+       x2="88"
+       x1="88"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="88,585 82,569 94,569 "
+       clip-path="url(#clipPath121)"
+       id="polygon1069"
+       style="stroke:none" />
+    <polygon
+       points="88,585 82,569 94,569 "
+       clip-path="url(#clipPath121)"
+       id="polygon1071"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1073"
+       y2="615"
+       y1="615"
+       x2="143"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="143,615 159,609 159,621 "
+       clip-path="url(#clipPath104)"
+       id="polygon1075"
+       style="stroke:none" />
+    <polygon
+       points="143,615 159,609 159,621 "
+       clip-path="url(#clipPath104)"
+       id="polygon1077"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1079"
+       y2="694"
+       y1="694"
+       x2="82"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1081"
+       y2="644"
+       y1="694"
+       x2="82"
+       x1="82"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="82,644 88,660 76,660 "
+       clip-path="url(#clipPath105)"
+       id="polygon1083"
+       style="stroke:none" />
+    <polygon
+       points="82,644 88,660 76,660 "
+       clip-path="url(#clipPath105)"
+       id="polygon1085"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1087"
+       y2="697"
+       y1="697"
+       x2="675"
+       x1="606"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1089"
+       y2="628"
+       y1="697"
+       x2="675"
+       x1="675"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="675,628 681,644 669,644 "
+       clip-path="url(#clipPath118)"
+       id="polygon1091"
+       style="stroke:none" />
+    <polygon
+       points="675,628 681,644 669,644 "
+       clip-path="url(#clipPath118)"
+       id="polygon1093"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1095"
+       y2="603"
+       y1="603"
+       x2="628"
+       x1="606"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="628,603 612,609 612,597 "
+       clip-path="url(#clipPath103)"
+       id="polygon1097"
+       style="stroke:none" />
+    <polygon
+       points="628,603 612,609 612,597 "
+       clip-path="url(#clipPath103)"
+       id="polygon1099"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1101"
+       y2="526"
+       y1="526"
+       x2="673"
+       x1="606"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1103"
+       y2="569"
+       y1="526"
+       x2="673"
+       x1="673"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="673,569 667,553 679,553 "
+       clip-path="url(#clipPath110)"
+       id="polygon1105"
+       style="stroke:none" />
+    <polygon
+       points="673,569 667,553 679,553 "
+       clip-path="url(#clipPath110)"
+       id="polygon1107"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1109"
+       y2="762"
+       y1="762"
+       x2="98"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1111"
+       y2="792"
+       y1="762"
+       x2="98"
+       x1="98"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="98,792 92,776 104,776 "
+       clip-path="url(#clipPath111)"
+       id="polygon1113"
+       style="stroke:none" />
+    <polygon
+       points="98,792 92,776 104,776 "
+       clip-path="url(#clipPath111)"
+       id="polygon1115"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1117"
+       y2="873"
+       y1="873"
+       x2="96"
+       x1="167"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1119"
+       y2="851"
+       y1="873"
+       x2="96"
+       x1="96"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="96,851 102,867 90,867 "
+       clip-path="url(#clipPath117)"
+       id="polygon1121"
+       style="stroke:none" />
+    <polygon
+       points="96,851 102,867 90,867 "
+       clip-path="url(#clipPath117)"
+       id="polygon1123"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1125"
+       y2="837"
+       y1="837"
+       x2="641"
+       x1="552"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="641,837 625,843 625,831 "
+       clip-path="url(#clipPath109)"
+       id="polygon1127"
+       style="stroke:none" />
+    <polygon
+       points="641,837 625,843 625,831 "
+       clip-path="url(#clipPath109)"
+       id="polygon1129"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1131"
+       y2="753"
+       y1="753"
+       x2="713"
+       x1="606"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1133"
+       y2="792"
+       y1="753"
+       x2="713"
+       x1="713"
+       clip-path="url(#clipPath102)" />
+    <polygon
+       points="713,792 707,776 719,776 "
+       clip-path="url(#clipPath113)"
+       id="polygon1135"
+       style="stroke:none" />
+    <polygon
+       points="713,792 707,776 719,776 "
+       clip-path="url(#clipPath113)"
+       id="polygon1137"
+       style="fill:none;stroke:#000000" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1139"
+       y2="515"
+       y1="515"
+       x2="288"
+       x1="485"
+       clip-path="url(#clipPath102)" />
+    <text
+       x="296"
+       y="507"
+       clip-path="url(#clipPath107)"
+       id="text1141"
+       xml:space="preserve"
+       style="fill:#000000;stroke:none">&lt;&lt;requires&gt;&gt;</text>
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1143"
+       y2="515"
+       y1="509"
+       x2="288"
+       x1="304"
+       clip-path="url(#clipPath108)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1145"
+       y2="521"
+       y1="515"
+       x2="304"
+       x1="288"
+       clip-path="url(#clipPath108)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1147"
+       y2="700"
+       y1="700"
+       x2="378"
+       x1="485"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1149"
+       y2="560"
+       y1="700"
+       x2="378"
+       x1="378"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1151"
+       y2="560"
+       y1="560"
+       x2="288"
+       x1="378"
+       clip-path="url(#clipPath102)" />
+    <text
+       x="299"
+       y="674"
+       clip-path="url(#clipPath126)"
+       id="text1153"
+       xml:space="preserve"
+       style="fill:#000000;stroke:none">&lt;&lt;mutex&gt;&gt;</text>
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1155"
+       y2="560"
+       y1="554"
+       x2="288"
+       x1="304"
+       clip-path="url(#clipPath127)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1157"
+       y2="566"
+       y1="560"
+       x2="304"
+       x1="288"
+       clip-path="url(#clipPath127)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1159"
+       y2="786"
+       y1="786"
+       x2="414"
+       x1="485"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1161"
+       y2="287"
+       y1="786"
+       x2="414"
+       x1="414"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1163"
+       y2="287"
+       y1="287"
+       x2="288"
+       x1="414"
+       clip-path="url(#clipPath102)" />
+    <text
+       x="370"
+       y="810"
+       clip-path="url(#clipPath124)"
+       id="text1165"
+       xml:space="preserve"
+       style="fill:#000000;stroke:none">&lt;&lt;requires&gt;&gt;</text>
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1167"
+       y2="287"
+       y1="281"
+       x2="288"
+       x1="304"
+       clip-path="url(#clipPath125)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1169"
+       y2="293"
+       y1="287"
+       x2="304"
+       x1="288"
+       clip-path="url(#clipPath125)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1171"
+       y2="763"
+       y1="763"
+       x2="451"
+       x1="485"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1173"
+       y2="335"
+       y1="763"
+       x2="451"
+       x1="451"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1175"
+       y2="335"
+       y1="335"
+       x2="485"
+       x1="451"
+       clip-path="url(#clipPath102)" />
+    <text
+       x="448"
+       y="474"
+       clip-path="url(#clipPath122)"
+       id="text1177"
+       xml:space="preserve"
+       style="fill:#000000;stroke:none">&lt;&lt;requires&gt;&gt;</text>
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1179"
+       y2="335"
+       y1="341"
+       x2="485"
+       x1="469"
+       clip-path="url(#clipPath123)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1181"
+       y2="329"
+       y1="335"
+       x2="469"
+       x1="485"
+       clip-path="url(#clipPath123)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1183"
+       y2="600"
+       y1="600"
+       x2="355"
+       x1="288"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1185"
+       y2="545"
+       y1="600"
+       x2="355"
+       x1="355"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:5, 5, 5, 5, 5, 5, 5, 5, 5, 5"
+       id="line1187"
+       y2="545"
+       y1="545"
+       x2="485"
+       x1="355"
+       clip-path="url(#clipPath102)" />
+    <text
+       x="284"
+       y="615"
+       clip-path="url(#clipPath115)"
+       id="text1189"
+       xml:space="preserve"
+       style="fill:#000000;stroke:none">&lt;&lt;mutex&gt;&gt;</text>
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1191"
+       y2="545"
+       y1="551"
+       x2="485"
+       x1="469"
+       clip-path="url(#clipPath116)" />
+    <line
+       style="fill:none;stroke:#000000"
+       id="line1193"
+       y2="539"
+       y1="545"
+       x2="469"
+       x1="485"
+       clip-path="url(#clipPath116)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line1195"
+       y2="340"
+       y1="240"
+       x2="704"
+       x1="704"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line1197"
+       y2="87"
+       y1="87"
+       x2="740"
+       x1="727"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line1199"
+       y2="591"
+       y1="87"
+       x2="740"
+       x1="740"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line1201"
+       y2="591"
+       y1="591"
+       x2="728"
+       x1="740"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line1203"
+       y2="340"
+       y1="243"
+       x2="86"
+       x1="86"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line1205"
+       y2="87"
+       y1="87"
+       x2="30"
+       x1="44"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line1207"
+       y2="614"
+       y1="87"
+       x2="30"
+       x1="30"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line1209"
+       y2="614"
+       y1="614"
+       x2="43"
+       x1="30"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line1211"
+       y2="851"
+       y1="906"
+       x2="67"
+       x1="67"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line1213"
+       y2="851"
+       y1="906"
+       x2="722"
+       x1="722"
+       clip-path="url(#clipPath102)" />
+    <line
+       style="fill:none;stroke:#000000;stroke-dasharray:6.6, 3.3"
+       id="line1215"
+       y2="851"
+       y1="923"
+       x2="666"
+       x1="532"
+       clip-path="url(#clipPath102)" />
+  </g>
+</svg>

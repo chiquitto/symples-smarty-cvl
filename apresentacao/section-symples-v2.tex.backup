@@ -1,0 +1,191 @@
+\section{Abordagem SyMPLES v2.0}
+
+\input{./texto-symples.tex}
+
+\begin{frame}
+\frametitle{Linguagem CVL}
+
+\begin{block}{CVL}
+   CVL é uma linguagem para especificar e resolver variabilidades em linguagens baseada em \textit{MOF}, tais como \textit{UML} e \textit{SysML}.
+\end{block}
+
+\textit{SyMPLES v2.0} utiliza a linguagem CVL para o gerenciamento de variabilidades. A linguagem \textit{CVL} pode ser aplicada tanto para modelos \textit{UML} tanto para modelos \textit{SysML}.
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Linguagem CVL}
+
+\begin{block}{Modelo base}
+   Instância de um metamodelo \textit{MOF}, tal como modelos \textit{SysML};
+\end{block}
+
+\begin{block}{Modelo de variabilidade}
+   É um conjunto de \textbf{pontos de variação}, especificações da variabilidade (\textbf{\textit{VSpecs}}) e \textbf{restrições} usadas para especificar variabilidades sobre o Modelo Base;
+\end{block}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Árvore VSpec (VSpec Tree)}
+
+Os \textit{VSpecs} podem ser organizadas como árvores, onde a relação pai-filho organiza o espaço de resolução por imposição da estrutura e lógica nas resoluções permitidas.
+
+Uma \textit{VSpec Tree} possui um nó raiz que representa o ponto de partida da materialização de um produto, e os outros nós serão responsáveis para representar a variabilidade da LPS.
+
+\end{frame}
+
+\begin{frame}
+\frametitle{SyMPLES v2.0}
+\framesubtitle{LPS de uma impressora - Diagrama de Definição de Blocos}
+
+  \href{run:./material/printer2-blocks-cvl.pdf}{\textcolor{blue}{$\gg$ Figura: LPS \textit{Printer} com variabilidades representadas com a linguagem \textit{CVL}}}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{SyMPLES v2.0}
+\framesubtitle{Modelo de variabilidades}
+
+  O Modelo de Variabilidades é formado por:
+  
+  \begin{itemize}
+    \item {
+      Pontos de variação;
+    }
+    \item {
+      Especificações de variabilidade (\textit{VSpec}) organizados em uma estrutura de árvore;
+    }
+    \item {
+      Restrições entre os \textit{VSpecs};
+    }
+  \end{itemize}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{SyMPLES v2.0}
+\framesubtitle{Identificação dos pontos de variação}
+
+  Cada elemento no Modelo Base que \textbf{pode ou não existir} no Modelo Materializado deve ser representado por um \textbf{ponto de variação \textit{objectExistence}} no Modelo de Variabilidades;
+
+\end{frame}
+
+\begin{frame}
+\frametitle{SyMPLES v2.0}
+\framesubtitle{Definição dos VSpecs}
+
+  Cada ponto de variação do tipo \textit{objectExistence} deve ser representado por um \textit{VSpec} do tipo escolha;
+
+\end{frame}
+
+\begin{frame}
+\frametitle{SyMPLES v2.0}
+\framesubtitle{Criação da Árvore VSpecs}
+
+  \begin{itemize}
+    \item {
+      os \textit{VSpecs} do tipo escolha que são obrigatórios deverão ser ligados ao seu elemento pai por meio de uma linha sólida;
+    }
+    \item {
+      os \textit{VSpecs} do tipo escolha que são opcionais deverão ser ligados ao seu elemento pai por meio de uma linha tracejada;
+    }
+    \item {
+      os \textit{VSpecs} do tipo variável deverão estar relacionadas a \textit{VSpecs} do tipo \textit{choice}, e deverão ser ligados ao seu elemento pai por meio de uma linha sólida;
+    }
+  \end{itemize}
+  
+\end{frame}
+
+\begin{frame}
+\frametitle{SyMPLES v2.0}
+
+  \textbf{Implicação negativa de resolução}: Uma resolução de escolha negativa requer uma resolução negativa para seus dependentes.
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v2.0}
+\framesubtitle{Exemplo de uso}
+  
+  \begin{columns}[onlytextwidth]
+  
+    \begin{column}{0.5\textwidth}
+      \begin{figure}
+      \pgfuseimage{fig:printer2CvlBlocksIsImpliedByParentF}
+      \end{figure}
+    \end{column}
+    
+    \begin{column}{0.5\textwidth}
+      \textbf{Exemplo}: o \textit{VSpec} \texttt{Tonner} se for resolvido negativamente, irá obrigar a resolução negativa para \texttt{BwTonner} e \texttt{ColorTonner};
+    \end{column}
+    
+  \end{columns}
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v2.0}
+
+  \textbf{Implicação positiva de resolução}: Cada \textit{VSpec} do tipo escolha possui um atributo \textit{isImpliedByParent} que, quando verdadeiro (\textit{true}), indica que se seu pai for resolvido positivamente, então ele deve ser decidido de forma positiva.
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v2.0}
+\framesubtitle{Exemplo de uso}
+  
+  \begin{columns}[onlytextwidth]
+    
+    \begin{column}{0.6\textwidth}
+      \textbf{Exemplo}: o \textit{VSpec} \texttt{Connector} possui \textit{isImpliedByParent=True}, simbolizado pela linha solida que interliga \texttt{Connector} e \texttt{Printer};
+    \end{column}
+  
+    \begin{column}{0.4\textwidth}
+      \begin{figure}
+      \pgfuseimage{fig:printer2CvlBlocksIsImpliedByParentT}
+      \end{figure}
+    \end{column}
+    
+  \end{columns}
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v2.0}
+
+  \textbf{Multiplicidade de grupo}: Um \textit{VSpec} pode conter uma multiplicidade de grupo, especificando o total de resoluções positivas que devem estar sob ele caso seja resolvido de forma positiva.
+  
+  \begin{itemize}
+    \item {
+      A multiplicidade de grupo é exibida por meio de um pequeno triângulo abaixo do \textit{VSpec}.
+    }
+  \end{itemize}
+
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v2.0}
+\framesubtitle{Exemplo de uso}
+  
+  \begin{columns}[onlytextwidth]
+    
+    \begin{column}{0.6\textwidth}
+      \textbf{Exemplo}: o \textit{VSpec} \texttt{Connector} possui \textit{isImpliedByParent=True}, simbolizado pela linha solida que interliga \texttt{Connector} e \texttt{Printer};
+    \end{column}
+  
+    \begin{column}{0.4\textwidth}
+      \begin{figure}
+      \pgfuseimage{fig:printer2CvlBlocksMultiplicidadeGrupo}
+      \end{figure}
+    \end{column}
+    
+  \end{columns}
+
+\end{frame}

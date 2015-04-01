@@ -1,0 +1,328 @@
+\section{Abordagem SyMPLES v1.0}
+
+\input{./texto-symples.tex}
+
+\begin{frame}
+\frametitle{Abordagem SMarty}
+
+\begin{block}{SMarty}
+   Permite o gerenciamento de variabilidades em uma LPS modeladas em \textit{UML}/\textit{SysML}.
+\end{block}
+
+\textit{SyMPLES v1.0} utiliza a abordagem \textit{SMarty} para o gerenciamento de variabilidades. A abordagem \textit{SMarty} pode ser aplicada tanto para modelos \textit{UML} tanto para modelos \textit{SysML}.
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+\framesubtitle{Perfis e Processos}
+
+A abordagem \textit{SyMPLES v1.0} é composta de:
+
+\begin{itemize}
+ \item {
+   \textit{SyMPLES-ProfileFB};
+ }
+ \item {
+   \textit{SyMPLES-ProfileVar};
+ }
+ \item {
+   \textit{SyMPLES-ProcessPL};
+ }
+ \item {
+   \textit{SyMPLES-ProcessVar};
+ }
+ 
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+\framesubtitle{Perfil SyMPLES-ProfileVar}
+
+\begin{itemize}
+ \item {
+   Baseado no \textit{SMartyProfile} da abordagem \textit{SMarty};
+ }
+ \item {
+   Conjunto de estereótipos para expressar variabilidade;
+ }
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+\framesubtitle{Estereótipos de SyMPLES-ProfileVar}
+
+\begin{columns}[onlytextwidth]
+  
+    \begin{column}{0.5\textwidth}
+      \begin{itemize}
+        \item {
+          \texttt{<<variationPoint>>}
+        }
+        \item {
+          \texttt{<<variability>>}
+        }
+        \item {
+          \texttt{<<requires>>}
+        }
+        \item {
+          \texttt{<<mutex>>}
+        }
+      \end{itemize}
+    \end{column}
+    
+    \begin{column}{0.5\textwidth}
+      \begin{itemize}
+        \item {
+          \texttt{<<variant>>}
+          
+          \begin{itemize}
+            \item {
+              \texttt{<<mandatory>>}
+            }
+            \item {
+              \texttt{<<optional>>}
+            }
+            \item {
+              \texttt{<<alternative\_OR>>}
+            }
+            \item {
+              \texttt{<<alternative\_XOR>>}
+            }
+          \end{itemize}
+          
+        }
+      \end{itemize}
+    \end{column}
+    
+  \end{columns}
+
+\end{frame}
+
+\subsection{Exemplo}
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+\framesubtitle{LPS de uma impressora - Diagrama de Definição de Blocos}
+
+  \begin{figure}
+  \pgfuseimage{fig:printer2SmartyBlocks}
+  \end{figure}
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+
+  \texttt{<<variationPoint>>}: representa o local em que ocorre uma variabilidade. Um ponto de variação está sempre associado à uma ou mais variantes.
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+
+  \texttt{<<mandatory>>}: a variante deve estar obrigatoriamente presente na configuração de qualquer modelo de LPS.
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+\framesubtitle{Exemplo de uso}
+
+  \begin{columns}[onlytextwidth]
+  
+    \begin{column}{0.5\textwidth}
+      \begin{figure}
+      \pgfuseimage{fig:printer2SmartyBlocksPedacoMandatory}
+      \end{figure}
+    \end{column}
+    
+    \begin{column}{0.5\textwidth}
+      \textbf{Exemplo}: o bloco \texttt{Tonner} deve obrigatoriamente estar em todos os produtos gerados pela LPS, por isso ele foi marcado com o estereótipo <<mandatory>>
+    \end{column}
+    
+  \end{columns}
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+
+  \texttt{<<optional>>}: a variante deve estar obrigatoriamente presente na configuração de qualquer modelo de LPS.
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+\framesubtitle{Exemplo de uso}
+
+  \begin{columns}[onlytextwidth]
+    
+    \begin{column}{0.6\textwidth}
+      \textbf{Exemplo}: o bloco \texttt{EmgPower} foi marcado com o estereótipo \texttt{<<optional>>} pois ele é uma caracteristica opcional nos produtos gerados pela LPS.
+    \end{column}
+  
+    \begin{column}{0.4\textwidth}
+      \begin{figure}
+      \pgfuseimage{fig:printer2SmartyBlocksPedacoOptional}
+      \end{figure}
+    \end{column}
+    
+  \end{columns}
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+
+  \texttt{<<alternative\_OR>>}: estão sempre associadas aos pontos de variação. \textbf{Pelo menos uma} das variantes deverá ser escolhida para resolver o ponto de variação, ou seja, para estar presente na configuração da LPS.
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+\framesubtitle{Exemplo de uso}
+
+  \begin{columns}[onlytextwidth]
+  
+    \begin{column}{0.4\textwidth}
+      \begin{figure}
+      \pgfuseimage{fig:printer2SmartyBlocksPedacoAltOr}
+      \end{figure}
+    \end{column}
+    
+    \begin{column}{0.6\textwidth}
+      \textbf{Exemplo}: o blocos \texttt{Usb2Connector}, \texttt{Usb3Connector} e \texttt{WifiConnector} foram marcados com o estereótipo \texttt{<<alternative\_OR>>} pois são características \textbf{alternativas inclusivas}, ou seja, pelo menos uma das variantes deve existir no produto gerado pela LPS.
+    \end{column}
+    
+  \end{columns}
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+
+  \texttt{<<alternative\_XOR>>}: estão sempre associadas aos pontos de variação. \textbf{Somente uma} das variantes deverá ser escolhida para resolver o ponto de variação.
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+\framesubtitle{Exemplo de uso}
+
+  \begin{columns}[onlytextwidth]
+    
+    \begin{column}{0.6\textwidth}
+      \textbf{Exemplo}: o blocos \texttt{BWTonner} e \texttt{ColorTonner} foram marcados com o estereótipo \texttt{<<alternative\_XOR>>} pois são características \textbf{alternativas exclusivas}, ou seja, somente um bloco entre \texttt{BWTonner} e \texttt{ColorTonner} deve existir no produto gerado pela LPS.
+    \end{column}
+  
+    \begin{column}{0.4\textwidth}
+      \begin{figure}
+      \pgfuseimage{fig:printer2SmartyBlocksPedacoAltXor}
+      \end{figure}
+    \end{column}
+    
+  \end{columns}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+
+  \texttt{<<variability>>}: indica uma variabilidade existente em um modelo UML.
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+\framesubtitle{Exemplo de uso}
+
+  \textbf{Exemplo}: o bloco \texttt{EmgPower} foi relacionado com uma nota estereotipada com \texttt{<<variability>>}, pois \texttt{EmgPower} representa um ponto de variação;
+
+  \begin{figure}
+  \pgfuseimage{fig:printer2SmartyBlocksPedacoVariability}
+  \end{figure}
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+
+  \texttt{<<requires>>}: indica um relacionamento de dependência (em \textit{UML}/\textit{SysML}) entre variantes no qual a
+variante dependente (origem da dependência) só existirá em uma configuração se a variante relacionada (destino da dependência) existir.
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+\framesubtitle{Exemplo de uso}
+  
+  \begin{columns}[onlytextwidth]
+  
+    \begin{column}{0.4\textwidth}
+      \begin{figure}
+      \pgfuseimage{fig:printer2SmartyBlocksPedacoRequires}
+      \end{figure}
+    \end{column}
+    
+    \begin{column}{0.6\textwidth}
+      \textbf{Exemplo}: o bloco \texttt{ColorTonner} requer a existência do bloco \texttt{Usb3Connector}, então estes dois blocos foram relacionados com uma dependência estereotipada com \texttt{<<requires>>};
+    \end{column}
+    
+  \end{columns}
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+
+  \texttt{<<mutex>>}: indica um relacionamento de dependência (em \textit{UML}/\textit{SysML}) entre variantes no qual a variante dependente (origem da dependência) só existirá em uma configuração se a variante relacionada (destino da dependência) obrigatoriamente não existir.
+
+  \begin{itemize}
+    \item {
+      São conhecidas como variantes mutuamente exclusivas.
+    }
+  \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{SyMPLES v1.0}
+\framesubtitle{Exemplo de uso}
+  
+  \begin{columns}[onlytextwidth]
+    
+    \begin{column}{0.4\textwidth}
+      \textbf{Exemplo}: o bloco \texttt{EmgPower} requer a exclusão do bloco \texttt{WifiConnector};
+    \end{column}
+  
+    \begin{column}{0.6\textwidth}
+      \begin{figure}
+      \pgfuseimage{fig:printer2SmartyBlocksPedacoMutex}
+      \end{figure}
+    \end{column}
+    
+  \end{columns}
+
+\end{frame}

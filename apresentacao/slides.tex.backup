@@ -1,0 +1,242 @@
+% \documentclass{beamer}
+% \documentclass[aspectratio=32,draft]{beamer}
+\documentclass[aspectratio=32]{beamer}
+
+%%%%%%%%% ALISSON CHIQUITTO
+
+\usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc}
+%\usepackage[hyphens]{url}
+%\usepackage{graphicx}
+%\usepackage[pdftex]{graphicx}
+%\usepackage{epstopdf}
+% \usepackage{cite}
+%\usepackage{color}
+\usepackage{enumerate}
+%\usepackage{caption}
+%\usepackage{hyperref}
+
+%\usepackage{ulem} % texto tachado - use \sout{texto}
+\usepackage[normalem]{ulem} % Fazer sublinhado e tachado em textos \uline{sublinhado} e \sout{tachado}
+
+\usepackage{xcolor}
+\definecolor{blue}{rgb}{0.19, 0.19, 0.7}
+% \textcolor{blue}{texto}
+
+\definecolor{bluelink}{rgb}{0.19, 0.19, 0.7}
+\hypersetup{colorlinks=false,linkcolor=blue,urlcolor=blue}
+\hypersetup{%
+  colorlinks=true,% hyperlinks will be black
+  linkbordercolor=bluelink,% hyperlink borders will be red
+  pdfborderstyle={/S/U/W 1}% border style will be underline of width 1pt
+}
+
+% Definir o caminho das figuras
+%\DeclareGraphicsExtensions{.png,.pdf}
+%\graphicspath{{img/}}
+
+%%%%%%%%% /ALISSON CHIQUITTO
+
+% There are many different themes available for Beamer. A comprehensive
+% list with examples is given here:
+% http://deic.uab.es/~iblanes/beamer_gallery/index_by_theme.html
+% You can uncomment the themes below if you would like to use a different
+% one:
+%\usetheme{AnnArbor}
+%\usetheme{Antibes} % Section and subsection at top
+%\usetheme{Bergen}
+%\usetheme{Berkeley}
+%\usetheme{Berlin}
+\usetheme{Boadilla} % -----
+%\usetheme{boxes}
+%\usetheme{CambridgeUS}
+%\usetheme{Copenhagen}
+%\usetheme{Darmstadt}
+%\usetheme{default} % ok
+%\usetheme{Frankfurt}
+%\usetheme{Goettingen}
+%\usetheme{Hannover}
+%\usetheme{Ilmenau}
+%\usetheme{JuanLesPins}
+%\usetheme{Luebeck}
+%\usetheme{Madrid} % Padrao
+%\usetheme{Malmoe}
+%\usetheme{Marburg}
+%\usetheme{Montpellier}
+%\usetheme{PaloAlto}
+% \usetheme{Pittsburgh} % ok
+%\usetheme{Rochester}
+%\usetheme{Singapore}
+%\usetheme{Szeged}
+%\usetheme{Warsaw}
+
+\title[Experimento - Abordagem SyMPLES]{Gerenciamento de Variabilidade em Sistemas Embarcados através da abordagem SyMPLES}
+
+% A subtitle is optional and this may be deleted
+% \subtitle{O básico}
+
+% \author{F.~Author\inst{1} \and S.~Another\inst{2}}
+% \author[Alisson Chiquitto]{Discente: Alisson Chiquitto\inst{2} \and Doscente: Prof. Dra. Itana M. S. Gimemes\inst{2}}
+% - Give the names in the same order as the appear in the paper.
+% - Use the \inst{?} command only if the authors have different
+%   affiliation.
+
+% \institute[Universities of Somewhere and Elsewhere] % (optional, but mostly needed)
+% {
+%   \inst{1}%
+%   Department of Computer Science\\
+%   University of Somewhere
+%   \and
+%   \inst{2}%
+%   Department of Theoretical Philosophy\\
+%   University of Elsewhere}
+% - Use the \inst command only if there are several affiliations.
+% - Keep it simple, no one is interested in your street address.
+
+\date{Maringá, 2014}
+% - Either use conference name or its abbreviation.
+% - Not really informative to the audience, more for people (including
+%   yourself) who are reading the slides online
+
+%\subject{Theoretical Computer Science}
+% This is only inserted into the PDF information catalog. Can be left
+% out. 
+
+% If you have a file called "university-logo-filename.xxx", where xxx
+% is a graphic format that can be processed by latex or pdflatex,
+% resp., then you can add a logo as follows:
+
+% \pgfdeclareimage[height=0.5cm]{university-logo}{university-logo-filename}
+% \logo{\pgfuseimage{university-logo}}
+
+% Delete this, if you do not want the table of contents to pop up at
+% the beginning of each subsection:
+\AtBeginSection[]
+{
+  \begin{frame}<beamer>{Outline}
+    \tableofcontents[currentsection]
+  \end{frame}
+}
+% 
+% \AtBeginSubsection[]
+% {
+%   \begin{frame}<beamer>{Outline}
+%     \tableofcontents[currentsection,currentsubsection]
+%   \end{frame}
+% }
+
+% Adapted from beamerinnerthemedfault.sty
+% http://tex.stackexchange.com/questions/11168/change-bullet-style-formatting-in-beamer
+% \setbeamertemplate{itemize item}{\scriptsize\raise1.25pt\hbox{\donotcoloroutermaths$\blacktriangleright$}}
+% \setbeamertemplate{itemize subitem}{\tiny\raise1.5pt\hbox{\donotcoloroutermaths$\blacktriangleright$}}
+% \setbeamertemplate{itemize subsubitem}{\tiny\raise1.5pt\hbox{\donotcoloroutermaths$\blacktriangleright$}}
+\setbeamertemplate{enumerate item}{\insertenumlabel.}
+\setbeamertemplate{enumerate subitem}{\insertenumlabel.\insertsubenumlabel}
+\setbeamertemplate{enumerate subsubitem}{\insertenumlabel.\insertsubenumlabel.\insertsubsubenumlabel}
+\setbeamertemplate{enumerate mini template}{\insertenumlabel}
+
+\setbeamertemplate{frametitle continuation}[from second]
+
+% \pgfdeclareimage[width=1.65in]{fig:hello-world}{img/hello-world.jpg}
+% \begin{figure}
+% \pgfuseimage{fig:html-form-fieldset}
+% \caption{Um grupo de elementos}
+% \end{figure}
+
+% 100px = 0.55in - 150px = 0.825in
+% 200px = 1.1in - 250px = 1.37in - 275px = 1.51in
+% 300px = 1.65in - 350px = 1.92in - 380px = xin
+% 400px = 2.2in - 450px = 2.47in
+% 500px = 2.75in - 550px = 3.025in
+% 600px = 3.3in
+% 700px = 3.85in
+% 800px = 4.4in
+\pgfdeclareimage[width=3.3in]{fig:productLineHenryFord}{img/irr2BgmCotrI-editado.jpg}
+\pgfdeclareimage[width=3.3in]{fig:lpIphone5Foxconn}{img/lp-iphone5-foxconn.jpg}
+\pgfdeclareimage[width=2.2in]{fig:atividadesEssenciaisLps}{img/atividades-essenciais-lps.jpg}
+
+\pgfdeclareimage[width=3.85in]{fig:lp-minions}{img/lp-minions.png}
+\pgfdeclareimage[width=3.3in]{fig:lp-subway}{img/lp-subway.png}
+
+\pgfdeclareimage[width=1.55in]{fig:carro1-frente}{img/carro1-frente.jpg}
+\pgfdeclareimage[width=1.55in]{fig:carro1-tras}{img/carro1-tras.jpg}
+\pgfdeclareimage[width=1.55in]{fig:carro2-frente}{img/carro2-frente.jpg}
+\pgfdeclareimage[width=1.55in]{fig:carro2-tras}{img/carro2-tras.jpg}
+\pgfdeclareimage[width=1.55in]{fig:carro3-frente}{img/carro3-frente.jpg}
+\pgfdeclareimage[width=1.55in]{fig:carro3-tras}{img/carro3-tras.jpg}
+
+\pgfdeclareimage[width=3.85in]{fig:artefatos1}{img/artefatos1.png}
+\pgfdeclareimage[width=3.85in]{fig:artefatos2}{img/artefatos2.png}
+\pgfdeclareimage[width=3.85in]{fig:artefatos3}{img/artefatos3.png}
+\pgfdeclareimage[width=3.85in]{fig:artefatos4}{img/artefatos4.png}
+\pgfdeclareimage[width=3.85in]{fig:artefatos5}{img/artefatos5.png}
+\pgfdeclareimage[width=3.85in]{fig:artefatos6}{img/artefatos6.png}
+\pgfdeclareimage[width=3.85in]{fig:artefatos7}{img/artefatos7.png}
+\pgfdeclareimage[width=3.85in]{fig:artefatos8}{img/artefatos8.png}
+
+\pgfdeclareimage[width=2.75in]{fig:printer2SmartyBlocks}{img/printer2-smarty-blocks.pdf}
+\pgfdeclareimage[width=2.2in]{fig:printer2SmartyBlocksPedacoMandatory}{img/printer2-smarty-blocks-pedaco-mandatory.pdf}
+\pgfdeclareimage[width=2.2in]{fig:printer2SmartyBlocksPedacoOptional}{img/printer2-smarty-blocks-pedaco-optional.pdf}
+\pgfdeclareimage[width=1.65in]{fig:printer2SmartyBlocksPedacoAltOr}{img/printer2-smarty-blocks-pedaco-altOr.pdf}
+\pgfdeclareimage[width=1.65in]{fig:printer2SmartyBlocksPedacoAltXor}{img/printer2-smarty-blocks-pedaco-altXor.pdf}
+\pgfdeclareimage[width=2.75in]{fig:printer2SmartyBlocksPedacoVariability}{img/printer2-smarty-blocks-pedaco-variability.pdf}
+
+% \pgfdeclareimage[width=4.4in]{fig:roboMovelBlocks}{img/roboMovel-blocks.pdf}
+% \pgfdeclareimage[width=4.4in]{fig:roboMovelBlocksSMarty}{img/roboMovel-blocks-smarty.pdf}
+
+% Let's get started
+\begin{document}
+
+\institute[UEM] % (optional, but mostly needed)
+{
+  Programa de Mestrado em Ciência da Computação
+}
+\author[Alisson G. Chiquitto]{\begin{tabular}{r@{ }l} 
+Discente:       & Alisson Gaspar Chiquitto \\[1ex] 
+Orientadora:    & Prof. Dra. Itana M. S. Gimenes
+\end{tabular}}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}{Sumário}
+  \tableofcontents
+  % You might wish to add the option [pausesections]
+\end{frame}
+
+% =======
+
+\section{Introdução}
+
+% \begin{frame}
+% \frametitle{Introdução}
+% 
+% \begin{itemize}
+%  \item {
+%    
+%  }
+% \end{itemize}
+% 
+% \end{frame}
+
+\input{./section-lps.tex}
+
+% SyMPLES v1.0
+
+\input{./section-symples-v1.tex}
+
+\input{./section-treinamento-symples-v1.tex}
+
+\input{./section-experimento-symples-v1.tex}
+
+% SyMPLES v2.0
+
+\input{./section-symples-v2.tex}
+
+\input{./section-treinamento-symples-v2.tex}
+
+\input{./section-experimento-symples-v2.tex}
+
+\end{document}
